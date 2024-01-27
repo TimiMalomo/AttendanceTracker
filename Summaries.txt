@@ -1,77 +1,35 @@
 Employee Name	Report Date	Activity Name	Activity Start	Activity End	Duration
-Cook, Tanika	2023-12-16	US Absent Unplanned	12:00	18:30	6.50
-Cook, Tanika	2023-12-30	US NCL	17:30	18:30	1.00
 Cook, Tanika	2024-01-15	US Tardy	10:00	10:12	0.20
-Coombs-Martin, India	2023-12-16	US Tardy	09:00	09:23	0.38
-Coombs-Martin, India	2023-12-23	US Tardy	09:00	09:11	0.18
-Coombs-Martin, India	2024-01-01	US Tardy	09:00	10:15	1.25
-Coombs-Martin, India	2024-01-06	US Tardy	09:00	09:34	0.57
-Coombs-Martin, India	2024-01-13	US Tardy	09:00	09:10	0.17
 Coombs-Martin, India	2024-01-15	US Absent Unplanned	09:00	19:15	10.25
-Drayton, Tanya	2023-12-15	US Tardy	10:00	11:12	1.20
-Drayton, Tanya	2023-12-18	US Absent Unplanned	10:00	20:15	10.25
-Drayton, Tanya	2023-12-26	US Partial	11:17	20:15	8.97
-Drayton, Tanya	2023-12-30	US Tardy	10:00	10:36	0.60
-Drayton, Tanya	2024-01-01	US Tardy	10:00	15:20	5.33
-Drayton, Tanya	2024-01-02	US Tardy	10:00	10:22	0.37
-Drayton, Tanya	2024-01-05	US Tardy	10:00	13:55	3.92
-Drayton, Tanya	2024-01-08	US Absent Unplanned	10:00	20:15	10.25
 Drayton, Tanya	2024-01-15	US Absent Unplanned	10:00	20:15	10.25
-Ebaugh-Jennings, Teresa	2023-12-16	US Bereavement	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2023-12-18	US Tardy	14:45	15:15	0.50
-Ebaugh-Jennings, Teresa	2023-12-23	US Absent Unplanned	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2023-12-30	US Tardy	11:45	11:55	0.17
-Ebaugh-Jennings, Teresa	2024-01-10	US NCL	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-01-13	US Absent Unplanned	11:45	22:00	10.25
-Jefferies, Chavelle	2023-12-22	US Tardy	09:00	09:57	0.95
-Jefferies, Chavelle	2024-01-01	US Absent Unplanned	09:00	19:15	10.25
-Moore, Abraham	2024-01-01	US Tardy	11:30	11:44	0.23
-Moore, Abraham	2024-01-05	US Absent Unplanned	11:30	22:00	10.50
+Ebaugh-Jennings, Teresa	2024-01-13	US Absent Unplanned	19:30	22:00	2.50
+Ebaugh-Jennings, Teresa	2024-01-20	US Absent Unplanned	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-01-22	US Bereavement	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-01-23	US Bereavement	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-01-24	US Bereavement	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-01-27	US Bereavement	11:45	19:30	7.75
 Moore, Abraham	2024-01-14	US Tardy	11:30	12:30	1.00
 Moore, Abraham	2024-01-15	US Tardy	11:30	12:35	1.08
-Parker, Edra	2023-12-18	US Tardy	11:45	13:18	1.55
-Parker, Edra	2024-01-01	US Absent Unplanned	11:45	22:00	10.25
+Moore, Abraham	2024-01-19	US Tardy	11:30	12:17	0.78
+Moore, Abraham	2024-01-21	US Partial	12:53	22:00	9.12
 Parker, Edra	2024-01-14	US Partial	17:09	22:00	4.85
 Parker, Edra	2024-01-14	US Tardy	11:45	12:50	1.08
 Parker, Edra	2024-01-15	US Partial	18:48	22:00	3.20
-Pisieczko, Bettina	2024-01-01	US NCL	13:30	22:00	8.50
-Pisieczko, Bettina	2024-01-03	US Absent Unplanned	13:30	22:00	8.50
-Pisieczko, Bettina	2024-01-12	US Tardy	13:30	13:44	0.23
+Parker, Edra	2024-01-22	US Tardy	11:45	12:00	0.25
+Parker, Edra	2024-01-26	US Tardy	11:45	12:05	0.33
 Pisieczko, Bettina	2024-01-16	US Tardy	13:30	18:00	4.50
-Puller, Paige	2023-12-17	US Tardy	10:30	11:34	1.07
-Puller, Paige	2023-12-19	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2023-12-26	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2023-12-29	US Partial	17:05	20:45	3.67
-Puller, Paige	2024-01-01	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-01-02	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-01-08	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-01-09	US Absent Unplanned	10:30	20:45	10.25
 Puller, Paige	2024-01-15	US Absent Unplanned	14:30	20:45	6.25
-Thompson, Dennis	2023-12-15	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-16	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-18	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-19	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-20	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-22	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-23	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-25	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-26	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-27	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-29	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2023-12-30	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-01	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-02	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-03	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-05	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-06	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-08	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-09	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-10	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-12	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-13	US LOA	13:30	22:00	8.50
+Puller, Paige	2024-01-23	US Partial	16:45	20:45	4.00
+Puller, Paige	2024-01-23	US Tardy	10:30	10:42	0.20
+Puller, Paige	2024-01-26	US Tardy	10:30	13:32	3.03
+Thompson, Dennis	2024-01-13	US LOA	19:45	22:00	2.25
 Thompson, Dennis	2024-01-15	US LOA	13:30	22:00	8.50
 Thompson, Dennis	2024-01-16	US LOA	13:30	22:00	8.50
-Thompson, Dennis	2024-01-17	US LOA	13:30	20:00	6.50
-Weaver, Erica	2023-12-16	US Absent Unplanned	13:30	22:00	8.50
-Weaver, Erica	2023-12-20	US Absent Unplanned	13:30	22:00	8.50
-Weaver, Erica	2024-01-08	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-01-17	US LOA	13:30	22:00	8.50
+Thompson, Dennis	2024-01-19	US LOA	13:30	22:00	8.50
+Thompson, Dennis	2024-01-20	US LOA	13:30	22:00	8.50
+Thompson, Dennis	2024-01-22	US LOA	13:30	22:00	8.50
+Thompson, Dennis	2024-01-23	US LOA	13:30	22:00	8.50
+Thompson, Dennis	2024-01-24	US LOA	13:30	22:00	8.50
+Thompson, Dennis	2024-01-26	US LOA	13:30	22:00	8.50
+Thompson, Dennis	2024-01-27	US LOA	13:30	19:45	6.25
