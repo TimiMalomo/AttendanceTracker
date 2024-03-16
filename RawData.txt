@@ -1,335 +1,231 @@
 Activity Name	Organization Name		Employee Number	Employee Name	Report Date		Activity Start	Activity End	Duration	Paid
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-13		19:30	19:45	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-13		19:45	22:00	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-01-15		09:00	10:45	1.75	1.75
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-15		10:00	12:15	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-01-15		10:45	11:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-01-15		11:00	13:30	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-15		12:15	12:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-15		12:30	14:45	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-01-15		13:30	14:00	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-01-15		14:00	16:30	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-15		14:30	16:15	1.75	1.75
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-15		14:45	15:15	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-15		15:15	17:30	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-15		16:15	16:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-01-15		16:30	16:45	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-15		16:30	18:30	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-01-15		16:45	19:15	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-15		17:30	17:45	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-15		17:45	20:15	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-15		18:30	19:00	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-15		19:00	20:45	1.75	1.75
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-20		11:45	13:45	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-20		13:45	14:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-20		14:00	16:15	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-20		16:15	16:45	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-20		16:45	19:15	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-20		19:15	19:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-20		19:30	22:00	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		999999	Parker, Edra	2024-01-28		11:45	13:45	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		999999	Parker, Edra	2024-01-28		13:45	14:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		999999	Parker, Edra	2024-01-28		14:00	16:15	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		999999	Parker, Edra	2024-01-28		16:15	16:45	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		999999	Parker, Edra	2024-01-28		16:45	19:15	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		999999	Parker, Edra	2024-01-28		19:15	19:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		999999	Parker, Edra	2024-01-28		19:30	22:00	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-01-29		09:00	11:15	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-29		10:00	11:45	1.75	1.75
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-29		10:30	12:45	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-01-29		11:15	11:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-01-29		11:30	13:45	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-29		11:45	12:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-29		12:00	14:30	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-29		12:45	13:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-29		13:00	16:00	3.00	3.00
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-01-29		13:45	14:15	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-01-29		14:15	16:00	1.75	1.75
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-29		14:30	15:00	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-29		15:00	17:30	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-29		16:00	16:30	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-01-29		16:00	16:45	0.75	0.75
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-29		16:30	17:30	1.00	1.00
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-01-29		16:45	17:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-01-29		17:00	19:15	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-29		17:30	17:45	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-29		17:30	18:15	0.75	0.75
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-01-29		17:45	20:15	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-29		18:15	18:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-01-29		18:30	20:45	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-02		13:30	15:30	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-02		15:30	15:45	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-02		15:45	17:45	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-02		17:45	18:15	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-02		18:15	19:45	1.50	1.50
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-02		19:45	20:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-02		20:00	22:00	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-03		09:00	11:00	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-03		11:00	11:15	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-03		11:15	13:45	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-03		11:45	13:45	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-03		13:30	15:30	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-03		13:45	14:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-03		13:45	14:15	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-03		14:00	16:30	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-03		14:15	16:45	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-03		15:30	15:45	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-03		15:45	17:15	1.50	1.50
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-03		16:30	17:00	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-03		16:45	17:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-03		17:00	19:15	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-03		17:00	19:30	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-03		17:15	17:45	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-03		17:45	19:45	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-03		19:30	19:45	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-03		19:45	20:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-03		19:45	22:00	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-03		20:00	22:00	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		36263	Cook, Tanika	2024-02-05		10:00	12:00	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		36263	Cook, Tanika	2024-02-05		12:00	12:15	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		36263	Cook, Tanika	2024-02-05		12:15	14:15	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		36263	Cook, Tanika	2024-02-05		14:15	14:45	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		36263	Cook, Tanika	2024-02-05		14:45	15:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		36263	Cook, Tanika	2024-02-05		15:00	16:00	1.00	1.00
-US Absent Unplanned	US Resolutions Team 7		36263	Cook, Tanika	2024-02-05		16:00	16:15	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		36263	Cook, Tanika	2024-02-05		16:15	16:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		36263	Cook, Tanika	2024-02-05		16:30	18:30	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-06		10:30	12:15	1.75	1.75
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-06		12:15	12:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-06		12:30	15:15	2.75	2.75
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-06		15:15	15:45	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-06		15:45	18:15	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-06		18:15	18:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-06		18:30	20:45	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-12		09:00	11:15	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-12		10:00	12:00	2.00	2.00
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-12		11:15	11:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-12		11:30	13:45	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-12		12:00	12:15	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-12		12:15	14:30	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-12		13:45	14:15	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-12		14:15	16:00	1.75	1.75
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-12		14:30	15:00	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-12		15:00	17:30	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-12		16:00	16:45	0.75	0.75
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-12		16:45	17:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-12		17:00	19:15	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-12		17:30	17:45	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-12		17:45	20:15	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-13		09:00	11:15	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-13		11:15	11:30	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-13		11:30	13:45	2.25	2.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-13		13:45	14:15	0.50	0.00
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-13		14:15	16:45	2.50	2.50
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-13		16:45	17:00	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-13		17:00	19:15	2.25	2.25
 US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		09:00	11:00	2.00	2.00
 US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		11:00	11:15	0.25	0.25
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		11:15	11:31	0.27	0.27
-US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		11:31	13:45	2.23	2.23
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		11:15	13:45	2.50	2.50
 US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		13:45	14:15	0.50	0.00
 US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		14:15	15:00	0.75	0.75
 US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		15:00	15:30	0.50	0.50
 US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		15:30	16:15	0.75	0.75
 US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		16:15	16:30	0.25	0.25
 US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-16		16:30	19:15	2.75	2.75
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-22		11:45	14:00	2.25	2.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-22		14:00	14:15	0.25	0.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-22		14:15	15:00	0.75	0.75
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-22		15:00	16:00	1.00	1.00
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-22		16:00	16:15	0.25	0.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-22		16:15	16:45	0.50	0.00
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-22		16:45	19:15	2.50	2.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-22		19:15	19:30	0.25	0.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-22		19:30	22:00	2.50	2.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-23		11:45	12:00	0.25	0.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-23		12:00	12:30	0.50	0.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-23		12:30	14:00	1.50	1.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-23		14:00	14:15	0.25	0.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-23		14:15	16:15	2.00	2.00
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-23		16:15	16:45	0.50	0.00
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-23		16:45	19:15	2.50	2.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-23		19:15	19:30	0.25	0.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-23		19:30	22:00	2.50	2.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-24		11:45	13:45	2.00	2.00
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-24		13:45	14:00	0.25	0.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-24		14:00	15:30	1.50	1.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-24		15:30	16:00	0.50	0.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-24		16:00	16:30	0.50	0.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-24		16:30	17:00	0.50	0.00
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-24		17:00	18:45	1.75	1.75
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-24		18:45	19:15	0.50	0.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-24		19:15	19:30	0.25	0.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-24		19:30	22:00	2.50	2.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-27		11:45	13:45	2.00	2.00
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-27		13:45	14:00	0.25	0.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-27		14:00	16:30	2.50	2.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-27		16:30	17:00	0.50	0.00
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-27		17:00	19:30	2.50	2.50
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-27		19:30	19:45	0.25	0.25
-US Bereavement	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-27		19:45	22:00	2.25	2.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-13		19:45	20:00	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-13		20:00	22:00	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-15		13:30	15:15	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-15		15:15	15:30	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-15		15:30	17:30	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-15		17:30	18:00	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-15		18:00	19:45	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-15		19:45	20:00	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-15		20:00	22:00	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-16		13:30	15:30	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-16		15:30	15:45	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-16		15:45	17:45	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-16		17:45	18:15	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-16		18:15	20:00	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-16		20:00	20:15	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-16		20:15	22:00	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-17		13:30	15:15	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-17		15:15	15:30	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-17		15:30	17:30	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-17		17:30	18:00	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-17		18:00	20:00	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-17		20:00	20:15	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-17		20:15	22:00	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-19		13:30	14:00	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-19		14:00	15:45	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-19		15:45	16:00	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-19		16:00	17:45	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-19		17:45	18:15	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-19		18:15	20:15	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-19		20:15	20:30	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-19		20:30	22:00	1.50	1.50
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-20		13:30	15:15	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-20		15:15	15:30	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-20		15:30	17:30	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-20		17:30	18:00	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-20		18:00	20:00	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-20		20:00	20:15	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-20		20:15	22:00	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-22		13:30	14:45	1.25	1.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-22		14:45	15:00	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-22		15:00	16:00	1.00	1.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-22		16:00	17:15	1.25	1.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-22		17:15	17:45	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-22		17:45	19:45	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-22		19:45	20:00	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-22		20:00	22:00	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-23		13:30	15:15	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-23		15:15	15:30	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-23		15:30	17:30	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-23		17:30	18:00	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-23		18:00	19:45	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-23		19:45	20:00	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-23		20:00	22:00	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-24		13:30	15:30	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-24		15:30	15:45	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-24		15:45	17:45	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-24		17:45	18:15	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-24		18:15	20:00	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-24		20:00	20:15	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-24		20:15	22:00	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-26		13:30	14:00	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-26		14:00	15:45	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-26		15:45	16:00	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-26		16:00	17:45	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-26		17:45	18:15	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-26		18:15	20:15	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-26		20:15	20:30	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-26		20:30	22:00	1.50	1.50
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-27		13:30	15:30	2.00	2.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-27		15:30	15:45	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-27		15:45	17:30	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-27		17:30	18:00	0.50	0.00
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-27		18:00	19:45	1.75	1.75
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-27		19:45	20:00	0.25	0.25
-US LOA	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-27		20:00	22:00	2.00	2.00
-US NCL	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-30		13:30	15:30	2.00	2.00
-US NCL	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-30		15:30	15:45	0.25	0.25
-US NCL	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-30		15:45	17:15	1.50	1.50
-US NCL	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-30		17:15	17:45	0.50	0.00
-US NCL	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-30		17:45	19:45	2.00	2.00
-US NCL	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-30		19:45	20:00	0.25	0.25
-US NCL	US Resolutions Team 7		10104589	Thompson, Dennis	2024-01-30		20:00	22:00	2.00	2.00
-US Partial	US Resolutions Team 7		999999	Parker, Edra	2024-01-14		17:09	19:15	2.10	2.10
-US Partial	US Resolutions Team 7		999999	Parker, Edra	2024-01-14		19:15	19:30	0.25	0.25
-US Partial	US Resolutions Team 7		999999	Parker, Edra	2024-01-14		19:30	22:00	2.50	2.50
-US Partial	US Resolutions Team 7		999999	Parker, Edra	2024-01-15		18:48	19:15	0.45	0.45
-US Partial	US Resolutions Team 7		999999	Parker, Edra	2024-01-15		19:15	19:30	0.25	0.25
-US Partial	US Resolutions Team 7		999999	Parker, Edra	2024-01-15		19:30	22:00	2.50	2.50
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-21		12:53	13:45	0.87	0.87
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-21		13:45	14:00	0.25	0.25
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-21		14:00	16:15	2.25	2.25
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-21		16:15	17:00	0.75	0.00
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-21		17:00	19:15	2.25	2.25
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-21		19:15	19:30	0.25	0.25
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-21		19:30	22:00	2.50	2.50
-US Partial	US Resolutions Team 7		79659	Puller, Paige	2024-01-23		16:45	18:15	1.50	1.50
-US Partial	US Resolutions Team 7		79659	Puller, Paige	2024-01-23		18:15	18:30	0.25	0.25
-US Partial	US Resolutions Team 7		79659	Puller, Paige	2024-01-23		18:30	20:45	2.25	2.25
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-28		14:30	14:45	0.25	0.25
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-28		14:45	16:45	2.00	2.00
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-28		16:45	17:30	0.75	0.00
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-28		17:30	19:30	2.00	2.00
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-28		19:30	19:45	0.25	0.25
-US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-01-28		19:45	22:00	2.25	2.25
-US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-02		11:45	12:00	0.25	0.25
-US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-02		12:00	14:30	2.50	2.50
-US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-02		14:30	15:00	0.50	0.00
-US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-02		15:00	17:30	2.50	2.50
-US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-02		17:30	17:45	0.25	0.25
-US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-02		17:45	20:15	2.50	2.50
-US Partial	US Resolutions Team 7		10104524	Weaver, Erica	2024-02-06		14:05	15:00	0.92	0.92
-US Partial	US Resolutions Team 7		10104524	Weaver, Erica	2024-02-06		15:00	15:15	0.25	0.25
-US Partial	US Resolutions Team 7		10104524	Weaver, Erica	2024-02-06		15:15	17:15	2.00	2.00
-US Partial	US Resolutions Team 7		10104524	Weaver, Erica	2024-02-06		17:15	17:45	0.50	0.00
-US Partial	US Resolutions Team 7		10104524	Weaver, Erica	2024-02-06		17:45	19:45	2.00	2.00
-US Partial	US Resolutions Team 7		10104524	Weaver, Erica	2024-02-06		19:45	20:00	0.25	0.25
-US Partial	US Resolutions Team 7		10104524	Weaver, Erica	2024-02-06		20:00	22:00	2.00	2.00
-US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-13		15:44	17:30	1.77	1.77
-US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-13		17:30	17:45	0.25	0.25
-US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-13		17:45	20:15	2.50	2.50
-US Tardy	US Resolutions Team 7		39951	Moore, Abraham	2024-01-14		11:30	11:30	0.01	0.01
-US Tardy	US Resolutions Team 7		39951	Moore, Abraham	2024-01-14		11:30	12:30	0.99	0.99
-US Tardy	US Resolutions Team 7		999999	Parker, Edra	2024-01-14		11:45	12:50	1.08	1.08
-US Tardy	US Resolutions Team 7		36263	Cook, Tanika	2024-01-15		10:00	10:12	0.20	0.20
-US Tardy	US Resolutions Team 7		39951	Moore, Abraham	2024-01-15		11:30	11:32	0.04	0.04
-US Tardy	US Resolutions Team 7		39951	Moore, Abraham	2024-01-15		11:32	12:35	1.04	1.04
-US Tardy	US Resolutions Team 7		10090743	Pisieczko, Bettina	2024-01-16		13:30	15:30	2.00	2.00
-US Tardy	US Resolutions Team 7		10090743	Pisieczko, Bettina	2024-01-16		15:30	15:45	0.25	0.25
-US Tardy	US Resolutions Team 7		10090743	Pisieczko, Bettina	2024-01-16		15:45	17:15	1.50	1.50
-US Tardy	US Resolutions Team 7		10090743	Pisieczko, Bettina	2024-01-16		17:15	17:45	0.50	0.00
-US Tardy	US Resolutions Team 7		10090743	Pisieczko, Bettina	2024-01-16		17:45	18:00	0.25	0.25
-US Tardy	US Resolutions Team 7		39951	Moore, Abraham	2024-01-19		11:30	12:17	0.78	0.78
-US Tardy	US Resolutions Team 7		999999	Parker, Edra	2024-01-22		11:45	12:00	0.25	0.25
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-01-23		10:30	10:42	0.20	0.20
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-01-26		10:30	12:45	2.25	2.25
-US Tardy	US Resolutions Team 7		999999	Parker, Edra	2024-01-26		11:45	12:05	0.33	0.33
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-01-26		12:45	13:00	0.25	0.25
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-01-26		13:00	13:32	0.53	0.53
-US Tardy	US Resolutions Team 7		51509	Coombs-Martin, India	2024-01-27		09:00	09:17	0.28	0.28
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-01-28		10:30	11:30	1.00	1.00
-US Tardy	US Resolutions Team 7		39951	Moore, Abraham	2024-01-28		11:30	11:30	0.01	0.01
-US Tardy	US Resolutions Team 7		39951	Moore, Abraham	2024-01-28		11:30	12:30	0.99	0.99
-US Tardy	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-01-29		11:45	13:45	2.00	2.00
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-01-30		10:30	11:36	1.11	1.11
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-01-30		11:36	12:30	0.89	0.89
-US Tardy	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-04		09:00	10:40	1.67	1.67
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-05		10:30	12:45	2.25	2.25
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-05		12:45	13:00	0.25	0.25
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-05		13:00	14:30	1.50	1.50
-US Tardy	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-05		13:30	14:17	0.78	0.78
-US Tardy	US Resolutions Team 7		999999	Parker, Edra	2024-02-09		11:45	12:51	1.10	1.10
-US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-10		10:00	12:15	2.25	2.25
-US Tardy	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-10		11:45	12:00	0.25	0.25
-US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-10		12:15	12:30	0.25	0.25
-US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-10		12:30	14:30	2.00	2.00
-US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-10		14:30	15:00	0.50	0.00
-US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-10		15:00	15:01	0.02	0.02
-US Tardy	US Resolutions Team 7		39951	Moore, Abraham	2024-02-11		11:30	12:30	1.00	1.00
-US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-12		10:30	11:38	1.13	1.13
-US Tardy	US Resolutions Team 7		999999	Parker, Edra	2024-02-12		11:45	12:51	1.10	1.10
-US Tardy	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-13		09:00	11:03	2.05	2.05
-US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-13		10:00	10:31	0.52	0.52
-US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-16		10:00	11:31	1.52	1.52
-US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-16		11:31	11:45	0.23	0.23
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-17		11:45	13:45	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-17		13:45	14:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-17		14:00	16:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-17		16:30	17:00	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-17		17:00	19:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-17		19:30	19:45	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-17		19:45	22:00	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-18		09:00	11:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-18		10:30	11:30	1.01	1.01
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-18		11:15	11:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-18		11:30	13:30	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-18		11:30	12:15	0.74	0.74
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-18		12:15	12:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-18		12:30	15:00	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-18		13:30	14:00	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-18		14:00	16:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-18		15:00	15:30	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-18		15:30	18:00	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-18		16:30	16:45	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-18		16:45	19:15	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-18		18:00	18:15	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-02-18		18:15	20:45	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-19		09:00	11:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-19		11:15	11:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-19		11:30	13:45	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-19		13:45	14:15	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-19		14:15	15:00	0.75	0.75
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-19		15:00	16:00	1.00	1.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-19		16:00	16:45	0.75	0.75
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-19		16:45	17:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-19		17:00	19:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-20		09:00	11:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-20		11:15	11:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-20		11:30	13:45	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-20		13:45	14:15	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-20		14:15	16:45	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-20		16:45	17:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-20		17:00	19:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-23		09:00	11:00	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-23		11:00	11:15	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-23		11:15	11:31	0.28	0.28
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-23		11:31	13:45	2.22	2.22
+US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-23		13:30	15:00	1.50	1.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-23		13:45	14:15	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-23		14:15	16:15	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-23		15:00	15:15	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-23		15:15	17:15	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-23		16:15	16:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-23		16:30	19:15	2.75	2.75
+US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-23		17:15	17:45	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-23		17:45	19:45	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-23		19:45	20:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		10104589	Thompson, Dennis	2024-02-23		20:00	22:00	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-25		09:00	10:45	1.75	1.75
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-25		10:45	11:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-25		11:00	13:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-25		13:30	14:00	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-25		14:00	16:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-25		16:30	16:45	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-25		16:45	19:15	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-26		09:00	10:45	1.75	1.75
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-26		10:00	12:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-26		10:45	11:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-26		11:00	13:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-26		12:15	12:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-26		12:30	14:45	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-26		13:30	14:00	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-26		14:00	16:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-26		14:45	15:15	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-26		15:15	17:45	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-26		16:30	16:45	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-26		16:45	19:15	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-26		17:45	18:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-26		18:00	20:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-27		09:00	10:45	1.75	1.75
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-27		10:45	11:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-27		11:00	13:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-27		13:30	14:00	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-27		14:00	16:00	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-27		16:00	16:15	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-27		16:15	16:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-27		16:30	16:45	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-02-27		16:45	19:15	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-28		11:45	14:00	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-28		14:00	14:15	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-28		14:15	16:30	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-28		16:30	17:00	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-28		17:00	19:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-28		19:15	19:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-28		19:30	22:00	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-01		09:00	11:00	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-01		11:00	11:15	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-01		11:15	13:45	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-01		13:45	14:15	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-01		14:15	16:45	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-01		16:45	17:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-01		17:00	19:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-03		10:30	12:45	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-03		12:45	13:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-03		13:00	15:00	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-03		15:00	15:30	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-03		15:30	18:00	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-03		18:00	18:15	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-03		18:15	20:45	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-04		09:00	10:45	1.75	1.75
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-04		10:00	11:45	1.75	1.75
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-04		10:30	12:45	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-04		10:45	11:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-04		11:00	13:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-04		11:45	12:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-04		12:00	14:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-04		12:45	13:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-04		13:00	15:00	2.00	2.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-04		13:30	14:00	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-04		14:00	15:00	1.00	1.00
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-04		14:30	15:00	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-04		15:00	16:00	1.00	1.00
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-04		15:00	16:00	1.00	1.00
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-04		15:00	16:00	1.00	1.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-04		16:00	16:30	0.50	0.50
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-04		16:00	16:30	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-04		16:00	17:30	1.50	1.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-04		16:30	16:45	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-04		16:30	18:15	1.75	1.75
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-04		16:45	19:15	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-04		17:30	17:45	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-04		17:45	20:15	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-04		18:15	18:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-04		18:30	20:45	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-10		10:30	12:45	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-10		12:45	13:00	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-10		13:00	15:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-10		15:15	15:45	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-10		15:45	18:15	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-10		18:15	18:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-10		18:30	20:45	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-11		09:00	11:15	2.25	2.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-11		10:30	12:15	1.75	1.75
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-11		11:15	11:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-11		11:30	12:32	1.05	1.05
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-03-11		11:45	13:30	1.75	1.75
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-11		12:15	12:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-11		12:30	15:00	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-11		12:32	13:30	0.95	0.95
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-03-11		13:30	13:45	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-11		13:30	14:00	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-03-11		13:45	16:15	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-11		14:00	16:30	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-11		15:00	15:30	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-11		15:30	18:00	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-03-11		16:15	16:45	0.50	0.00
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-11		16:30	16:45	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		70190	Jefferies, Chavelle	2024-03-11		16:45	19:15	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-03-11		16:45	19:15	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-11		18:00	18:15	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		79659	Puller, Paige	2024-03-11		18:15	20:45	2.50	2.50
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-03-11		19:15	19:30	0.25	0.25
+US Absent Unplanned	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-03-11		19:30	22:00	2.50	2.50
+US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-17		17:05	17:45	0.67	0.67
+US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-17		17:45	18:00	0.25	0.25
+US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-17		18:00	20:15	2.25	2.25
+US Partial	US Resolutions Team 7		58436	Parker, Edra	2024-02-19		18:00	19:15	1.25	1.25
+US Partial	US Resolutions Team 7		58436	Parker, Edra	2024-02-19		19:15	19:30	0.25	0.25
+US Partial	US Resolutions Team 7		58436	Parker, Edra	2024-02-19		19:30	22:00	2.50	2.50
+US Partial	US Resolutions Team 7		36263	Cook, Tanika	2024-02-24		14:35	16:30	1.91	1.91
+US Partial	US Resolutions Team 7		36263	Cook, Tanika	2024-02-24		16:30	16:45	0.25	0.25
+US Partial	US Resolutions Team 7		36263	Cook, Tanika	2024-02-24		16:45	18:30	1.75	1.75
+US Partial	US Resolutions Team 7		36263	Cook, Tanika	2024-02-24		18:30	18:30	0.00	0.00
+US Partial	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-25		15:00	16:30	1.50	1.50
+US Partial	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-25		16:30	16:45	0.25	0.25
+US Partial	US Resolutions Team 7		51509	Coombs-Martin, India	2024-02-25		16:45	16:59	0.23	0.23
+US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-02-26		18:00	19:15	1.25	1.25
+US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-02-26		19:15	19:30	0.25	0.25
+US Partial	US Resolutions Team 7		39951	Moore, Abraham	2024-02-26		19:30	22:00	2.50	2.50
+US Partial	US Resolutions Team 7		79659	Puller, Paige	2024-02-27		16:36	18:15	1.65	1.65
+US Partial	US Resolutions Team 7		79659	Puller, Paige	2024-02-27		18:15	18:30	0.25	0.25
+US Partial	US Resolutions Team 7		79659	Puller, Paige	2024-02-27		18:30	20:45	2.25	2.25
+US Partial	US Resolutions Team 7		51509	Coombs-Martin, India	2024-03-02		13:21	13:45	0.40	0.40
+US Partial	US Resolutions Team 7		51509	Coombs-Martin, India	2024-03-02		13:45	14:15	0.50	0.00
+US Partial	US Resolutions Team 7		51509	Coombs-Martin, India	2024-03-02		14:15	15:25	1.17	1.17
+US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-05		16:05	16:15	0.17	0.17
+US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-05		16:15	17:45	1.50	1.50
+US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-05		17:45	18:00	0.25	0.25
+US Partial	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-05		18:00	20:15	2.25	2.25
+US Partial	US Resolutions Team 7		10104589	Thompson, Dennis	2024-03-08		15:14	15:30	0.27	0.27
+US Partial	US Resolutions Team 7		10104589	Thompson, Dennis	2024-03-08		15:30	15:45	0.25	0.25
+US Partial	US Resolutions Team 7		10104589	Thompson, Dennis	2024-03-08		15:45	17:45	2.00	2.00
+US Partial	US Resolutions Team 7		10104589	Thompson, Dennis	2024-03-08		17:45	18:15	0.50	0.00
+US Partial	US Resolutions Team 7		10104589	Thompson, Dennis	2024-03-08		18:15	19:45	1.50	1.50
+US Partial	US Resolutions Team 7		10104589	Thompson, Dennis	2024-03-08		19:45	20:00	0.25	0.25
+US Partial	US Resolutions Team 7		10104589	Thompson, Dennis	2024-03-08		20:00	22:00	2.00	2.00
+US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-16		10:00	11:31	1.53	1.53
+US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-16		11:31	11:45	0.22	0.22
 US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-16		11:45	11:50	0.08	0.08
+US Tardy	US Resolutions Team 7		58436	Parker, Edra	2024-02-19		11:45	12:04	0.32	0.32
+US Tardy	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-19		11:45	14:00	2.25	2.25
+US Tardy	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-19		14:00	14:15	0.25	0.25
+US Tardy	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-19		14:15	15:00	0.75	0.75
+US Tardy	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-19		15:00	15:15	0.25	0.25
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-23		10:30	12:45	2.25	2.25
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-23		12:45	13:00	0.25	0.25
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-23		13:00	13:30	0.50	0.50
+US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-24		10:00	12:00	2.00	2.00
+US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-24		12:00	12:15	0.25	0.25
+US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-02-24		12:15	14:15	2.00	2.00
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-25		10:30	11:30	1.01	1.01
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-25		11:30	12:30	0.99	0.99
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-25		12:30	12:45	0.25	0.25
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-02-25		12:45	13:33	0.80	0.80
+US Tardy	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-02-26		11:45	12:05	0.33	0.33
+US Tardy	US Resolutions Team 7		58436	Parker, Edra	2024-02-27		11:45	13:45	2.00	2.00
+US Tardy	US Resolutions Team 7		51509	Coombs-Martin, India	2024-03-03		09:00	09:22	0.37	0.37
+US Tardy	US Resolutions Team 7		58436	Parker, Edra	2024-03-04		11:45	12:48	1.05	1.05
+US Tardy	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-03-04		11:45	13:30	1.75	1.75
+US Tardy	US Resolutions Team 7		68559	Ebaugh-Jennings, Teresa	2024-03-05		11:45	11:57	0.20	0.20
+US Tardy	US Resolutions Team 7		58436	Drayton, Tanya	2024-03-09		10:00	10:53	0.88	0.88
+US Tardy	US Resolutions Team 7		58436	Parker, Edra	2024-03-11		11:45	12:00	0.25	0.25
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-03-12		10:30	12:30	2.00	2.00
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-03-12		12:30	12:32	0.04	0.04
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-03-12		12:32	12:45	0.21	0.21
+US Tardy	US Resolutions Team 7		79659	Puller, Paige	2024-03-12		12:45	14:30	1.75	1.75
