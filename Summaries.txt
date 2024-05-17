@@ -1,47 +1,853 @@
 Employee Name	Report Date	Activity Name	Activity Start	Activity End	Duration
-Cook, Tanika	2024-02-24	US Partial	14:35	18:30	3.91
-Coombs-Martin, India	2024-02-25	US Partial	15:00	16:59	1.98
-Coombs-Martin, India	2024-03-02	US Partial	13:21	15:25	2.07
-Coombs-Martin, India	2024-03-03	US Tardy	09:00	09:22	0.37
-Drayton, Tanya	2024-02-16	US Tardy	10:00	11:50	1.83
-Drayton, Tanya	2024-02-17	US Partial	17:05	20:15	3.17
-Drayton, Tanya	2024-02-24	US Tardy	10:00	14:15	4.25
-Drayton, Tanya	2024-02-26	US Absent Unplanned	10:00	20:15	10.25
-Drayton, Tanya	2024-03-04	US Absent Unplanned	10:00	20:15	10.25
-Drayton, Tanya	2024-03-05	US Partial	16:05	20:15	4.17
-Drayton, Tanya	2024-03-09	US Tardy	10:00	10:53	0.88
-Ebaugh-Jennings, Teresa	2024-02-17	US Absent Unplanned	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-02-19	US Tardy	11:45	15:15	3.50
-Ebaugh-Jennings, Teresa	2024-02-26	US Tardy	11:45	12:05	0.33
-Ebaugh-Jennings, Teresa	2024-02-28	US Absent Unplanned	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-03-04	US Tardy	11:45	13:30	1.75
-Ebaugh-Jennings, Teresa	2024-03-05	US Tardy	11:45	11:57	0.20
-Ebaugh-Jennings, Teresa	2024-03-11	US Absent Unplanned	11:45	22:00	10.25
-Jefferies, Chavelle	2024-02-16	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-02-18	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-02-19	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-02-20	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-02-23	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-02-25	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-02-26	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-02-27	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-03-01	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-03-04	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-03-11	US Absent Unplanned	09:00	19:15	10.25
-Moore, Abraham	2024-02-26	US Partial	18:00	22:00	4.00
-Parker, Edra	2024-02-19	US Partial	18:00	22:00	4.00
-Parker, Edra	2024-02-19	US Tardy	11:45	12:04	0.32
-Parker, Edra	2024-02-27	US Tardy	11:45	13:45	2.00
-Parker, Edra	2024-03-04	US Tardy	11:45	12:48	1.05
-Parker, Edra	2024-03-11	US Tardy	11:45	12:00	0.25
-Puller, Paige	2024-02-18	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-02-23	US Tardy	10:30	13:30	3.00
-Puller, Paige	2024-02-25	US Tardy	10:30	13:33	3.05
-Puller, Paige	2024-02-27	US Partial	16:36	20:45	4.15
-Puller, Paige	2024-03-03	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-03-04	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-03-10	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-03-11	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-03-12	US Tardy	10:30	14:30	4.00
-Thompson, Dennis	2024-02-23	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-03-08	US Partial	15:14	22:00	6.77
+Cook, Tanika	2024-03-15	US Absent Planned	00:00	18:30	34.00
+Cook, Tanika	2024-03-16	US Absent Planned	10:00	18:30	14.00
+Cook, Tanika	2024-03-18	US Absent Planned	00:00	18:30	34.00
+Cook, Tanika	2024-03-19	US Absent Planned	10:00	18:00	24.00
+Cook, Tanika	2024-03-20	US Absent Planned	10:00	18:30	14.00
+Cook, Tanika	2024-03-22	US Absent Planned	00:00	18:30	34.00
+Cook, Tanika	2024-03-23	US Absent Planned	10:00	18:30	14.00
+Cook, Tanika	2024-03-25	US Break	12:00	16:30	0.50
+Cook, Tanika	2024-03-25	US Lunch	14:15	14:45	0.50
+Cook, Tanika	2024-03-25	US Project Work Office	10:00	18:30	7.50
+Cook, Tanika	2024-03-26	US Break	12:00	16:30	0.50
+Cook, Tanika	2024-03-26	US Lunch	14:15	14:45	0.50
+Cook, Tanika	2024-03-26	US Project Work	10:00	18:00	5.75
+Cook, Tanika	2024-03-26	US Resource Review	16:00	16:15	0.25
+Cook, Tanika	2024-03-26	US Training	16:30	17:30	1.00
+Cook, Tanika	2024-03-27	US Break	12:00	17:00	0.50
+Cook, Tanika	2024-03-27	US Lunch	14:15	14:45	0.50
+Cook, Tanika	2024-03-27	US Project Work	10:00	18:30	7.50
+Cook, Tanika	2024-03-29	US Break	11:30	16:30	0.50
+Cook, Tanika	2024-03-29	US Lunch	13:45	14:15	0.50
+Cook, Tanika	2024-03-29	US Non-ACD	12:30	18:30	5.25
+Cook, Tanika	2024-03-29	US Project Work	10:00	12:30	2.25
+Cook, Tanika	2024-03-30	US Break	11:45	16:45	0.50
+Cook, Tanika	2024-03-30	US Lunch	14:00	14:30	0.50
+Cook, Tanika	2024-03-30	US Non-ACD	13:00	18:30	4.75
+Cook, Tanika	2024-03-30	US Project Work	10:00	13:00	2.75
+Cook, Tanika	2024-04-01	US Admin Authorize Office	10:00	18:30	6.50
+Cook, Tanika	2024-04-01	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-01	US Lunch	14:30	15:00	0.50
+Cook, Tanika	2024-04-01	US Meeting	15:00	16:00	1.00
+Cook, Tanika	2024-04-02	US ACD	10:00	18:30	7.25
+Cook, Tanika	2024-04-02	US Break	12:00	16:30	0.50
+Cook, Tanika	2024-04-02	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-02	US Resource Review	16:00	16:15	0.25
+Cook, Tanika	2024-04-03	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-03	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-03	US Project Work	10:00	18:30	7.50
+Cook, Tanika	2024-04-05	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-05	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-05	US Project Work	10:00	18:00	6.50
+Cook, Tanika	2024-04-05	US Training	12:15	12:45	0.50
+Cook, Tanika	2024-04-06	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-06	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-06	US Project Work	10:00	18:30	7.50
+Cook, Tanika	2024-04-08	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-08	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-08	US Project Work	10:00	18:30	7.50
+Cook, Tanika	2024-04-09	US Break	12:00	16:30	0.50
+Cook, Tanika	2024-04-09	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-09	US Project Work	10:00	18:30	7.25
+Cook, Tanika	2024-04-09	US Resource Review	16:00	16:15	0.25
+Cook, Tanika	2024-04-10	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-10	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-10	US Meeting	15:30	16:00	0.50
+Cook, Tanika	2024-04-10	US Project Work	10:00	18:30	7.00
+Cook, Tanika	2024-04-12	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-12	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-12	US Project Work	10:00	18:00	7.00
+Cook, Tanika	2024-04-13	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-13	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-13	US Project Work	10:00	18:30	7.50
+Cook, Tanika	2024-04-15	US Break	12:00	16:45	0.50
+Cook, Tanika	2024-04-15	US Lunch	14:15	14:45	0.50
+Cook, Tanika	2024-04-15	US Meeting	15:00	16:15	1.25
+Cook, Tanika	2024-04-15	US Project Work Office	10:00	18:30	6.25
+Cook, Tanika	2024-04-16	US Admin Authorize	10:00	18:30	7.25
+Cook, Tanika	2024-04-16	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-16	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-16	US Resource Review	13:00	13:15	0.25
+Cook, Tanika	2024-04-17	US Admin AuthorizeC	10:00	14:45	4.50
+Cook, Tanika	2024-04-17	US Break	12:00	17:00	0.50
+Cook, Tanika	2024-04-17	US Coaching	17:00	17:30	0.50
+Cook, Tanika	2024-04-17	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-17	US Project Work	15:15	18:30	2.00
+Cook, Tanika	2024-04-17	US Training	16:15	16:45	0.50
+Cook, Tanika	2024-04-19	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-19	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-19	US Project Work	10:00	18:00	7.00
+Cook, Tanika	2024-04-20	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-20	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-20	US Project Work	10:00	18:30	7.50
+Cook, Tanika	2024-04-22	US ACD Office	11:01	18:30	6.48
+Cook, Tanika	2024-04-22	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-22	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-22	US Tardy	10:00	11:01	1.02
+Cook, Tanika	2024-04-23	US ACD	10:00	18:30	7.25
+Cook, Tanika	2024-04-23	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-23	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-23	US Resource Review	13:00	13:15	0.25
+Cook, Tanika	2024-04-24	US Admin AuthorizeC	10:00	14:45	4.50
+Cook, Tanika	2024-04-24	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-24	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-24	US Non-ACD Social Media	15:15	18:30	3.00
+Cook, Tanika	2024-04-26	US Break	12:00	16:15	0.50
+Cook, Tanika	2024-04-26	US Lunch	14:45	15:15	0.50
+Cook, Tanika	2024-04-26	US Project Work	10:00	18:00	6.25
+Cook, Tanika	2024-04-26	US Training	12:15	13:00	0.75
+Coombs-Martin, India	2024-03-16	US ACD	09:00	19:15	9.25
+Coombs-Martin, India	2024-03-16	US Break	10:45	16:45	0.50
+Coombs-Martin, India	2024-03-16	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-03-17	US ACD	09:00	11:48	2.55
+Coombs-Martin, India	2024-03-17	US Break	11:15	11:30	0.25
+Coombs-Martin, India	2024-03-17	US Partial	11:48	19:15	7.45
+Coombs-Martin, India	2024-03-18	US ACD Office	09:00	15:00	5.25
+Coombs-Martin, India	2024-03-18	US Admin Casework Office	16:00	19:15	3.00
+Coombs-Martin, India	2024-03-18	US Break	10:45	16:45	0.50
+Coombs-Martin, India	2024-03-18	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-03-18	US Meeting	15:00	16:00	1.00
+Coombs-Martin, India	2024-03-19	US Admin Casework	09:00	19:15	9.00
+Coombs-Martin, India	2024-03-19	US Break	10:45	16:45	0.50
+Coombs-Martin, India	2024-03-19	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-03-19	US Resource Review	16:00	16:15	0.25
+Coombs-Martin, India	2024-03-23	US Admin Casework	09:00	19:15	9.25
+Coombs-Martin, India	2024-03-23	US Break	10:45	16:45	0.50
+Coombs-Martin, India	2024-03-23	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-03-24	US ACD	09:00	19:15	9.25
+Coombs-Martin, India	2024-03-24	US Break	10:45	16:45	0.50
+Coombs-Martin, India	2024-03-24	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-03-25	US ACD	09:00	19:15	8.25
+Coombs-Martin, India	2024-03-25	US Break	10:45	16:45	0.50
+Coombs-Martin, India	2024-03-25	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-03-25	US Training	16:45	17:45	1.00
+Coombs-Martin, India	2024-03-26	US Admin Casework	09:00	19:15	9.00
+Coombs-Martin, India	2024-03-26	US Break	10:45	16:45	0.50
+Coombs-Martin, India	2024-03-26	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-03-26	US Resource Review	16:00	16:15	0.25
+Coombs-Martin, India	2024-03-30	US Admin Casework	09:00	19:15	9.25
+Coombs-Martin, India	2024-03-30	US Break	11:15	17:00	0.50
+Coombs-Martin, India	2024-03-30	US Lunch	13:45	14:15	0.50
+Coombs-Martin, India	2024-03-31	US ACD	12:00	18:00	5.25
+Coombs-Martin, India	2024-03-31	US Break	13:45	14:00	0.25
+Coombs-Martin, India	2024-03-31	US Lunch	15:45	16:15	0.50
+Coombs-Martin, India	2024-03-31	US Stat Holiday	18:00	19:15	1.25
+Coombs-Martin, India	2024-03-31	US Tardy	09:00	12:00	3.00
+Coombs-Martin, India	2024-04-01	US ACD Office	10:00	19:15	7.25
+Coombs-Martin, India	2024-04-01	US Break	12:00	17:15	0.50
+Coombs-Martin, India	2024-04-01	US Lunch	14:15	14:45	0.50
+Coombs-Martin, India	2024-04-01	US Meeting	15:00	16:00	1.00
+Coombs-Martin, India	2024-04-01	US Tardy	09:00	10:00	1.00
+Coombs-Martin, India	2024-04-02	US Admin Casework	09:00	19:15	8.50
+Coombs-Martin, India	2024-04-02	US Break	11:45	17:00	0.50
+Coombs-Martin, India	2024-04-02	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-04-02	US Resource Review	16:00	16:15	0.25
+Coombs-Martin, India	2024-04-02	US Training	14:00	14:30	0.50
+Coombs-Martin, India	2024-04-06	US Admin Casework	09:00	19:15	9.25
+Coombs-Martin, India	2024-04-06	US Break	11:45	17:00	0.50
+Coombs-Martin, India	2024-04-06	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-04-07	US ACD	09:00	19:15	9.25
+Coombs-Martin, India	2024-04-07	US Break	11:15	16:45	0.50
+Coombs-Martin, India	2024-04-07	US Lunch	13:45	14:15	0.50
+Coombs-Martin, India	2024-04-08	US Absent Planned	00:00	19:15	24.00
+Coombs-Martin, India	2024-04-09	US Absent Planned	00:00	19:15	24.00
+Coombs-Martin, India	2024-04-13	US Absent Planned	00:00	19:15	24.00
+Coombs-Martin, India	2024-04-14	US ACD	09:00	19:15	9.25
+Coombs-Martin, India	2024-04-14	US Break	11:15	16:45	0.50
+Coombs-Martin, India	2024-04-14	US Lunch	13:45	14:15	0.50
+Coombs-Martin, India	2024-04-15	US ACD Office	09:00	19:15	7.50
+Coombs-Martin, India	2024-04-15	US Break	11:15	17:00	0.50
+Coombs-Martin, India	2024-04-15	US Lunch	13:45	14:15	0.50
+Coombs-Martin, India	2024-04-15	US Meeting	15:00	16:15	1.25
+Coombs-Martin, India	2024-04-15	US Training	10:45	11:15	0.50
+Coombs-Martin, India	2024-04-16	US Admin Casework	09:00	19:15	9.00
+Coombs-Martin, India	2024-04-16	US Break	11:45	17:00	0.50
+Coombs-Martin, India	2024-04-16	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-04-16	US Resource Review	13:00	13:15	0.25
+Coombs-Martin, India	2024-04-20	US Admin Casework	09:00	19:15	9.25
+Coombs-Martin, India	2024-04-20	US Break	11:45	17:00	0.50
+Coombs-Martin, India	2024-04-20	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-04-21	US ACD	09:00	19:15	9.25
+Coombs-Martin, India	2024-04-21	US Break	11:15	16:45	0.50
+Coombs-Martin, India	2024-04-21	US Lunch	13:45	14:15	0.50
+Coombs-Martin, India	2024-04-22	US ACD Office	09:00	19:15	8.93
+Coombs-Martin, India	2024-04-22	US Break	11:15	17:15	0.50
+Coombs-Martin, India	2024-04-22	US Coaching	16:00	16:19	0.32
+Coombs-Martin, India	2024-04-22	US Lunch	13:45	14:15	0.50
+Coombs-Martin, India	2024-04-23	US Admin Casework	09:00	19:15	9.00
+Coombs-Martin, India	2024-04-23	US Break	11:45	17:00	0.50
+Coombs-Martin, India	2024-04-23	US Lunch	13:30	14:00	0.50
+Coombs-Martin, India	2024-04-23	US Resource Review	13:00	13:15	0.25
+Drayton, Tanya	2024-03-15	US ACD	10:00	20:15	9.25
+Drayton, Tanya	2024-03-15	US Break	11:45	17:45	0.50
+Drayton, Tanya	2024-03-15	US Lunch	14:30	15:00	0.50
+Drayton, Tanya	2024-03-16	US ACD	10:00	20:15	9.25
+Drayton, Tanya	2024-03-16	US Break	11:45	17:45	0.50
+Drayton, Tanya	2024-03-16	US Lunch	14:30	15:00	0.50
+Drayton, Tanya	2024-03-18	US Absent Unplanned	10:00	20:15	10.25
+Drayton, Tanya	2024-03-19	US ACD	10:00	20:15	9.00
+Drayton, Tanya	2024-03-19	US Break	12:00	18:00	0.50
+Drayton, Tanya	2024-03-19	US Lunch	14:45	15:15	0.50
+Drayton, Tanya	2024-03-19	US Resource Review	17:00	17:15	0.25
+Drayton, Tanya	2024-03-22	US Absent Planned	00:00	20:15	24.00
+Drayton, Tanya	2024-03-23	US ACD	10:00	20:15	9.25
+Drayton, Tanya	2024-03-23	US Break	12:00	18:00	0.50
+Drayton, Tanya	2024-03-23	US Lunch	14:45	15:15	0.50
+Drayton, Tanya	2024-03-25	US ACD	10:00	20:15	8.25
+Drayton, Tanya	2024-03-25	US Break	11:45	17:45	0.50
+Drayton, Tanya	2024-03-25	US Lunch	14:30	15:00	0.50
+Drayton, Tanya	2024-03-25	US Training	12:00	13:00	1.00
+Drayton, Tanya	2024-03-26	US Absent Unplanned	10:00	20:15	10.25
+Drayton, Tanya	2024-03-29	US ACD	10:00	20:15	9.25
+Drayton, Tanya	2024-03-29	US Break	12:15	17:45	0.50
+Drayton, Tanya	2024-03-29	US Lunch	14:30	15:00	0.50
+Drayton, Tanya	2024-03-30	US ACD	10:00	20:15	9.25
+Drayton, Tanya	2024-03-30	US Break	12:15	17:45	0.50
+Drayton, Tanya	2024-03-30	US Lunch	14:30	15:00	0.50
+Drayton, Tanya	2024-04-01	US Absent Unplanned	10:00	20:15	10.25
+Drayton, Tanya	2024-04-02	US ACD	10:00	20:15	9.00
+Drayton, Tanya	2024-04-02	US Break	12:00	18:00	0.50
+Drayton, Tanya	2024-04-02	US Lunch	14:45	15:15	0.50
+Drayton, Tanya	2024-04-02	US Resource Review	17:00	17:15	0.25
+Drayton, Tanya	2024-04-05	US ACD	10:00	20:15	8.75
+Drayton, Tanya	2024-04-05	US Break	12:15	18:00	0.50
+Drayton, Tanya	2024-04-05	US Lunch	14:45	15:15	0.50
+Drayton, Tanya	2024-04-05	US Training	14:15	14:45	0.50
+Drayton, Tanya	2024-04-06	US ACD	10:34	15:35	4.26
+Drayton, Tanya	2024-04-06	US Break	12:00	12:15	0.25
+Drayton, Tanya	2024-04-06	US Lunch	14:30	15:00	0.50
+Drayton, Tanya	2024-04-06	US Partial	15:35	20:15	4.67
+Drayton, Tanya	2024-04-06	US Tardy	10:00	10:34	0.57
+Drayton, Tanya	2024-04-08	US ACD Office	10:22	20:15	8.88
+Drayton, Tanya	2024-04-08	US Break	11:45	17:45	0.50
+Drayton, Tanya	2024-04-08	US Lunch	14:30	15:00	0.50
+Drayton, Tanya	2024-04-08	US Tardy	10:00	10:22	0.37
+Drayton, Tanya	2024-04-09	US ACD	10:13	20:15	8.28
+Drayton, Tanya	2024-04-09	US Break	11:45	17:45	0.50
+Drayton, Tanya	2024-04-09	US Lunch	14:30	15:00	0.50
+Drayton, Tanya	2024-04-09	US Meeting	15:30	16:00	0.50
+Drayton, Tanya	2024-04-09	US Resource Review	17:00	17:15	0.25
+Drayton, Tanya	2024-04-09	US Tardy	10:00	10:13	0.22
+Drayton, Tanya	2024-04-12	US ACD	10:00	20:15	8.75
+Drayton, Tanya	2024-04-12	US Break	12:00	18:00	0.50
+Drayton, Tanya	2024-04-12	US Coaching	16:00	16:30	0.50
+Drayton, Tanya	2024-04-12	US Lunch	14:45	15:15	0.50
+Drayton, Tanya	2024-04-13	US Absent Unplanned	10:00	20:15	10.25
+Drayton, Tanya	2024-04-15	US ACD Office	10:00	20:15	8.00
+Drayton, Tanya	2024-04-15	US Break	12:15	17:45	0.50
+Drayton, Tanya	2024-04-15	US Lunch	14:30	15:00	0.50
+Drayton, Tanya	2024-04-15	US Meeting	15:00	16:15	1.25
+Drayton, Tanya	2024-04-16	US Absent Unplanned	10:00	20:15	10.25
+Drayton, Tanya	2024-04-19	US ACD	10:00	20:15	8.75
+Drayton, Tanya	2024-04-19	US Break	12:15	18:00	0.50
+Drayton, Tanya	2024-04-19	US Lunch	14:45	15:15	0.50
+Drayton, Tanya	2024-04-19	US Training	11:45	12:15	0.50
+Drayton, Tanya	2024-04-20	US ACD	10:00	16:59	6.23
+Drayton, Tanya	2024-04-20	US Break	12:15	12:30	0.25
+Drayton, Tanya	2024-04-20	US Lunch	14:45	15:15	0.50
+Drayton, Tanya	2024-04-20	US Partial	16:59	20:15	3.27
+Drayton, Tanya	2024-04-22	US Absent Unplanned	10:00	20:15	10.25
+Drayton, Tanya	2024-04-23	US ACD	10:00	20:15	8.25
+Drayton, Tanya	2024-04-23	US Break	12:00	18:00	0.50
+Drayton, Tanya	2024-04-23	US Lunch	14:45	15:15	0.50
+Drayton, Tanya	2024-04-23	US Resource Review	17:00	17:15	0.25
+Drayton, Tanya	2024-04-23	US Training	18:00	18:45	0.75
+Drayton, Tanya	2024-04-26	US ACD	10:41	20:15	8.57
+Drayton, Tanya	2024-04-26	US Break	12:15	17:45	0.50
+Drayton, Tanya	2024-04-26	US Lunch	14:30	15:00	0.50
+Drayton, Tanya	2024-04-26	US Tardy	10:00	10:41	0.68
+Ebaugh-Jennings, Teresa	2024-03-16	US ACD	11:45	22:00	9.25
+Ebaugh-Jennings, Teresa	2024-03-16	US Break	13:45	19:45	0.50
+Ebaugh-Jennings, Teresa	2024-03-16	US Lunch	16:30	17:00	0.50
+Ebaugh-Jennings, Teresa	2024-03-18	US ACD Office	12:05	22:00	4.92
+Ebaugh-Jennings, Teresa	2024-03-18	US Admin Casework Office	16:00	19:30	3.00
+Ebaugh-Jennings, Teresa	2024-03-18	US Break	14:00	19:45	0.50
+Ebaugh-Jennings, Teresa	2024-03-18	US Lunch	16:30	17:00	0.50
+Ebaugh-Jennings, Teresa	2024-03-18	US Meeting	15:00	16:00	1.00
+Ebaugh-Jennings, Teresa	2024-03-18	US Tardy	11:45	12:05	0.33
+Ebaugh-Jennings, Teresa	2024-03-19	US Admin Casework	11:45	22:00	9.00
+Ebaugh-Jennings, Teresa	2024-03-19	US Break	14:00	19:30	0.50
+Ebaugh-Jennings, Teresa	2024-03-19	US Lunch	16:15	16:45	0.50
+Ebaugh-Jennings, Teresa	2024-03-19	US Resource Review	15:00	15:15	0.25
+Ebaugh-Jennings, Teresa	2024-03-20	US Admin Casework	11:45	22:00	9.25
+Ebaugh-Jennings, Teresa	2024-03-20	US Break	14:00	19:30	0.50
+Ebaugh-Jennings, Teresa	2024-03-20	US Lunch	16:30	17:00	0.50
+Ebaugh-Jennings, Teresa	2024-03-23	US ACD	11:45	22:00	9.25
+Ebaugh-Jennings, Teresa	2024-03-23	US Break	13:45	19:45	0.50
+Ebaugh-Jennings, Teresa	2024-03-23	US Lunch	16:30	17:00	0.50
+Ebaugh-Jennings, Teresa	2024-03-25	US ACD	11:45	22:00	8.25
+Ebaugh-Jennings, Teresa	2024-03-25	US Break	13:30	19:30	0.50
+Ebaugh-Jennings, Teresa	2024-03-25	US Lunch	16:15	16:45	0.50
+Ebaugh-Jennings, Teresa	2024-03-25	US Training	15:15	16:15	1.00
+Ebaugh-Jennings, Teresa	2024-03-26	US Absent Unplanned	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-03-27	US NCL	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-03-30	US NCL	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-04-01	US Admin Casework Office	13:55	22:00	6.08
+Ebaugh-Jennings, Teresa	2024-04-01	US Break	16:00	20:15	0.50
+Ebaugh-Jennings, Teresa	2024-04-01	US Lunch	18:00	18:30	0.50
+Ebaugh-Jennings, Teresa	2024-04-01	US Meeting	15:00	16:00	1.00
+Ebaugh-Jennings, Teresa	2024-04-01	US Tardy	11:45	13:55	2.16
+Ebaugh-Jennings, Teresa	2024-04-02	US ACD	11:45	22:00	9.00
+Ebaugh-Jennings, Teresa	2024-04-02	US Break	14:00	19:30	0.50
+Ebaugh-Jennings, Teresa	2024-04-02	US Lunch	16:15	16:45	0.50
+Ebaugh-Jennings, Teresa	2024-04-02	US Resource Review	15:00	15:15	0.25
+Ebaugh-Jennings, Teresa	2024-04-03	US Admin Casework	12:57	22:00	7.55
+Ebaugh-Jennings, Teresa	2024-04-03	US Break	14:00	19:45	0.50
+Ebaugh-Jennings, Teresa	2024-04-03	US Lunch	16:30	17:00	0.50
+Ebaugh-Jennings, Teresa	2024-04-03	US Tardy	11:45	12:57	1.20
+Ebaugh-Jennings, Teresa	2024-04-03	US Training	16:00	16:30	0.50
+Ebaugh-Jennings, Teresa	2024-04-06	US Absent Unplanned	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-04-08	US Absent Unplanned	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-04-09	US Admin Casework	11:45	22:00	8.50
+Ebaugh-Jennings, Teresa	2024-04-09	US Break	14:00	19:30	0.50
+Ebaugh-Jennings, Teresa	2024-04-09	US Lunch	16:15	16:45	0.50
+Ebaugh-Jennings, Teresa	2024-04-09	US Resource Review	15:00	15:15	0.25
+Ebaugh-Jennings, Teresa	2024-04-09	US Training	15:45	16:15	0.50
+Ebaugh-Jennings, Teresa	2024-04-10	US Absent Planned	11:45	16:45	5.00
+Ebaugh-Jennings, Teresa	2024-04-10	US Admin Casework	16:45	22:00	5.00
+Ebaugh-Jennings, Teresa	2024-04-10	US Break	19:30	19:45	0.25
+Ebaugh-Jennings, Teresa	2024-04-13	US ACD	11:45	22:00	9.25
+Ebaugh-Jennings, Teresa	2024-04-13	US Break	14:00	19:30	0.50
+Ebaugh-Jennings, Teresa	2024-04-13	US Lunch	16:15	16:45	0.50
+Ebaugh-Jennings, Teresa	2024-04-15	US Admin Casework Office	16:15	22:00	5.00
+Ebaugh-Jennings, Teresa	2024-04-15	US Break	17:45	18:00	0.25
+Ebaugh-Jennings, Teresa	2024-04-15	US Lunch	20:00	20:30	0.50
+Ebaugh-Jennings, Teresa	2024-04-15	US Meeting	15:16	16:15	0.98
+Ebaugh-Jennings, Teresa	2024-04-15	US Tardy	11:45	15:16	3.52
+Ebaugh-Jennings, Teresa	2024-04-16	US ACD	11:45	22:00	9.00
+Ebaugh-Jennings, Teresa	2024-04-16	US Break	14:00	19:30	0.50
+Ebaugh-Jennings, Teresa	2024-04-16	US Lunch	16:15	16:45	0.50
+Ebaugh-Jennings, Teresa	2024-04-16	US Resource Review	15:00	15:15	0.25
+Ebaugh-Jennings, Teresa	2024-04-17	US NCL	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-04-20	US ACD	11:45	22:00	9.25
+Ebaugh-Jennings, Teresa	2024-04-20	US Break	14:00	19:30	0.50
+Ebaugh-Jennings, Teresa	2024-04-20	US Lunch	16:15	16:45	0.50
+Ebaugh-Jennings, Teresa	2024-04-22	US Admin Casework Office	11:45	22:00	9.25
+Ebaugh-Jennings, Teresa	2024-04-22	US Break	14:00	19:45	0.50
+Ebaugh-Jennings, Teresa	2024-04-22	US Lunch	16:30	17:00	0.50
+Ebaugh-Jennings, Teresa	2024-04-23	US ACD	11:56	22:00	8.82
+Ebaugh-Jennings, Teresa	2024-04-23	US Break	14:00	19:30	0.50
+Ebaugh-Jennings, Teresa	2024-04-23	US Lunch	16:15	16:45	0.50
+Ebaugh-Jennings, Teresa	2024-04-23	US Resource Review	15:00	15:15	0.25
+Ebaugh-Jennings, Teresa	2024-04-23	US Tardy	11:45	11:56	0.18
+Ebaugh-Jennings, Teresa	2024-04-24	US Admin Casework	11:45	22:00	9.25
+Ebaugh-Jennings, Teresa	2024-04-24	US Break	14:00	19:45	0.50
+Ebaugh-Jennings, Teresa	2024-04-24	US Lunch	16:30	17:00	0.50
+Jefferies, Chavelle	2024-03-15	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-03-17	US Admin Casework	14:30	19:15	4.50
+Jefferies, Chavelle	2024-03-17	US Break	16:45	17:00	0.25
+Jefferies, Chavelle	2024-03-17	US Tardy	09:00	14:30	5.50
+Jefferies, Chavelle	2024-03-18	US ACD Office	09:00	15:00	5.25
+Jefferies, Chavelle	2024-03-18	US Admin Casework Office	16:00	19:15	3.00
+Jefferies, Chavelle	2024-03-18	US Break	10:45	16:45	0.50
+Jefferies, Chavelle	2024-03-18	US Lunch	13:30	14:00	0.50
+Jefferies, Chavelle	2024-03-18	US Meeting	15:00	16:00	1.00
+Jefferies, Chavelle	2024-03-19	US Admin Casework	09:00	19:15	9.00
+Jefferies, Chavelle	2024-03-19	US Break	10:45	16:45	0.50
+Jefferies, Chavelle	2024-03-19	US Lunch	13:30	14:00	0.50
+Jefferies, Chavelle	2024-03-19	US Resource Review	16:00	16:15	0.25
+Jefferies, Chavelle	2024-03-22	US ACD	09:00	19:15	8.25
+Jefferies, Chavelle	2024-03-22	US Break	11:00	17:00	0.50
+Jefferies, Chavelle	2024-03-22	US Lunch	13:45	14:15	0.50
+Jefferies, Chavelle	2024-03-22	US Training	11:15	12:15	1.00
+Jefferies, Chavelle	2024-03-24	US Admin Casework	09:00	19:15	9.25
+Jefferies, Chavelle	2024-03-24	US Break	11:15	17:00	0.50
+Jefferies, Chavelle	2024-03-24	US Lunch	13:45	14:15	0.50
+Jefferies, Chavelle	2024-03-25	US ACD	09:00	10:45	1.75
+Jefferies, Chavelle	2024-03-25	US Admin Casework	11:00	19:15	7.50
+Jefferies, Chavelle	2024-03-25	US Break	10:45	16:45	0.50
+Jefferies, Chavelle	2024-03-25	US Lunch	13:30	14:00	0.50
+Jefferies, Chavelle	2024-03-26	US Admin Casework	09:00	19:15	9.00
+Jefferies, Chavelle	2024-03-26	US Break	10:45	16:45	0.50
+Jefferies, Chavelle	2024-03-26	US Lunch	13:30	14:00	0.50
+Jefferies, Chavelle	2024-03-26	US Resource Review	16:00	16:15	0.25
+Jefferies, Chavelle	2024-03-29	US ACD	09:00	19:15	9.25
+Jefferies, Chavelle	2024-03-29	US Break	11:00	17:00	0.50
+Jefferies, Chavelle	2024-03-29	US Lunch	13:45	14:15	0.50
+Jefferies, Chavelle	2024-03-31	US Admin Casework	09:00	18:00	8.00
+Jefferies, Chavelle	2024-03-31	US Break	11:45	17:00	0.50
+Jefferies, Chavelle	2024-03-31	US Lunch	13:30	14:00	0.50
+Jefferies, Chavelle	2024-03-31	US Stat Holiday	18:00	19:15	1.25
+Jefferies, Chavelle	2024-04-01	US Admin Casework Office	09:00	19:15	8.25
+Jefferies, Chavelle	2024-04-01	US Break	11:45	17:00	0.50
+Jefferies, Chavelle	2024-04-01	US Lunch	13:30	14:00	0.50
+Jefferies, Chavelle	2024-04-01	US Meeting	15:00	16:00	1.00
+Jefferies, Chavelle	2024-04-02	US ACD	09:00	19:15	9.00
+Jefferies, Chavelle	2024-04-02	US Break	11:15	17:00	0.50
+Jefferies, Chavelle	2024-04-02	US Lunch	13:45	14:15	0.50
+Jefferies, Chavelle	2024-04-02	US Resource Review	16:00	16:15	0.25
+Jefferies, Chavelle	2024-04-05	US ACD	09:00	19:15	8.75
+Jefferies, Chavelle	2024-04-05	US Break	11:15	17:00	0.50
+Jefferies, Chavelle	2024-04-05	US Lunch	13:45	14:15	0.50
+Jefferies, Chavelle	2024-04-05	US Training	15:00	15:30	0.50
+Jefferies, Chavelle	2024-04-07	US Admin Casework	09:00	19:15	9.25
+Jefferies, Chavelle	2024-04-07	US Break	11:45	17:00	0.50
+Jefferies, Chavelle	2024-04-07	US Lunch	13:30	14:00	0.50
+Jefferies, Chavelle	2024-04-08	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-09	US ACD	09:00	19:15	9.00
+Jefferies, Chavelle	2024-04-09	US Break	11:15	17:00	0.50
+Jefferies, Chavelle	2024-04-09	US Lunch	13:45	14:15	0.50
+Jefferies, Chavelle	2024-04-09	US Resource Review	16:00	16:15	0.25
+Jefferies, Chavelle	2024-04-12	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-14	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-15	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-16	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-19	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-21	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-22	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-23	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-26	US Absent Unplanned	09:00	19:15	10.25
+Moore, Abraham	2024-03-15	US ACD	11:30	22:00	9.25
+Moore, Abraham	2024-03-15	US Break	13:15	19:30	0.50
+Moore, Abraham	2024-03-15	US Lunch	16:00	16:45	0.75
+Moore, Abraham	2024-03-17	US ACD	11:30	22:00	9.25
+Moore, Abraham	2024-03-17	US Break	13:30	19:45	0.50
+Moore, Abraham	2024-03-17	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-03-18	US ACD Office	11:30	22:00	8.25
+Moore, Abraham	2024-03-18	US Break	13:30	19:45	0.50
+Moore, Abraham	2024-03-18	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-03-18	US Meeting	15:00	16:00	1.00
+Moore, Abraham	2024-03-19	US ACD	13:30	22:00	7.00
+Moore, Abraham	2024-03-19	US Break	15:15	20:00	0.50
+Moore, Abraham	2024-03-19	US Lunch	17:15	18:00	0.75
+Moore, Abraham	2024-03-19	US Resource Review	17:00	17:15	0.25
+Moore, Abraham	2024-03-19	US Tardy	11:30	13:30	2.00
+Moore, Abraham	2024-03-22	US ACD	11:30	22:00	8.25
+Moore, Abraham	2024-03-22	US Break	13:30	19:45	0.50
+Moore, Abraham	2024-03-22	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-03-22	US Training	15:15	16:15	1.00
+Moore, Abraham	2024-03-24	US ACD	11:30	22:00	9.25
+Moore, Abraham	2024-03-24	US Break	13:45	19:30	0.50
+Moore, Abraham	2024-03-24	US Lunch	16:00	16:45	0.75
+Moore, Abraham	2024-03-25	US ACD	11:30	22:00	9.25
+Moore, Abraham	2024-03-25	US Break	13:30	19:30	0.50
+Moore, Abraham	2024-03-25	US Lunch	16:00	16:45	0.75
+Moore, Abraham	2024-03-26	US ACD	11:30	22:00	9.00
+Moore, Abraham	2024-03-26	US Break	13:45	19:30	0.50
+Moore, Abraham	2024-03-26	US Lunch	16:00	16:45	0.75
+Moore, Abraham	2024-03-26	US Resource Review	17:00	17:15	0.25
+Moore, Abraham	2024-03-29	US ACD	11:30	22:00	9.25
+Moore, Abraham	2024-03-29	US Break	13:45	19:30	0.50
+Moore, Abraham	2024-03-29	US Lunch	16:00	16:45	0.75
+Moore, Abraham	2024-03-31	US ACD	11:30	18:00	5.50
+Moore, Abraham	2024-03-31	US Break	13:45	14:00	0.25
+Moore, Abraham	2024-03-31	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-03-31	US Stat Holiday	18:00	22:00	4.00
+Moore, Abraham	2024-04-01	US ACD Office	11:30	22:00	8.25
+Moore, Abraham	2024-04-01	US Break	13:30	19:45	0.50
+Moore, Abraham	2024-04-01	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-04-01	US Meeting	15:00	16:00	1.00
+Moore, Abraham	2024-04-02	US Absent Planned	00:00	22:00	24.00
+Moore, Abraham	2024-04-05	US ACD	11:30	22:00	8.75
+Moore, Abraham	2024-04-05	US Break	13:45	19:30	0.50
+Moore, Abraham	2024-04-05	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-04-05	US Training	15:45	16:15	0.50
+Moore, Abraham	2024-04-07	US ACD	11:30	22:00	9.25
+Moore, Abraham	2024-04-07	US Break	13:15	19:30	0.50
+Moore, Abraham	2024-04-07	US Lunch	16:00	16:45	0.75
+Moore, Abraham	2024-04-08	US ACD Office	11:30	22:00	9.25
+Moore, Abraham	2024-04-08	US Break	13:30	19:30	0.50
+Moore, Abraham	2024-04-08	US Lunch	16:00	16:45	0.75
+Moore, Abraham	2024-04-09	US ACD	11:30	22:00	8.50
+Moore, Abraham	2024-04-09	US Break	13:45	19:30	0.50
+Moore, Abraham	2024-04-09	US Lunch	15:45	16:30	0.75
+Moore, Abraham	2024-04-09	US Meeting	16:30	17:00	0.50
+Moore, Abraham	2024-04-09	US Resource Review	17:00	17:15	0.25
+Moore, Abraham	2024-04-12	US ACD	11:30	22:00	9.25
+Moore, Abraham	2024-04-12	US Break	13:30	19:30	0.50
+Moore, Abraham	2024-04-12	US Lunch	16:00	16:45	0.75
+Moore, Abraham	2024-04-14	US ACD	11:30	22:00	9.25
+Moore, Abraham	2024-04-14	US Break	13:45	19:30	0.50
+Moore, Abraham	2024-04-14	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-04-15	US ACD Office	12:30	22:00	6.50
+Moore, Abraham	2024-04-15	US Break	14:45	20:00	0.50
+Moore, Abraham	2024-04-15	US Lunch	17:00	17:45	0.75
+Moore, Abraham	2024-04-15	US Meeting	15:00	16:15	1.25
+Moore, Abraham	2024-04-15	US Tardy	11:30	12:30	1.00
+Moore, Abraham	2024-04-15	US Training	13:15	13:45	0.50
+Moore, Abraham	2024-04-16	US ACD	11:30	22:00	8.25
+Moore, Abraham	2024-04-16	US Break	13:45	19:30	0.50
+Moore, Abraham	2024-04-16	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-04-16	US Resource Review	17:00	17:15	0.25
+Moore, Abraham	2024-04-16	US Training	18:00	18:45	0.75
+Moore, Abraham	2024-04-19	US ACD	11:30	22:00	8.75
+Moore, Abraham	2024-04-19	US Break	13:45	19:45	0.50
+Moore, Abraham	2024-04-19	US Coaching	17:00	17:30	0.50
+Moore, Abraham	2024-04-19	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-04-21	US ACD	11:30	22:00	9.25
+Moore, Abraham	2024-04-21	US Break	13:45	19:30	0.50
+Moore, Abraham	2024-04-21	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-04-22	US ACD Office	12:39	22:00	8.10
+Moore, Abraham	2024-04-22	US Break	14:45	20:00	0.50
+Moore, Abraham	2024-04-22	US Lunch	17:00	17:45	0.75
+Moore, Abraham	2024-04-22	US Tardy	11:30	12:39	1.15
+Moore, Abraham	2024-04-23	US ACD	11:30	22:00	9.00
+Moore, Abraham	2024-04-23	US Break	13:45	19:30	0.50
+Moore, Abraham	2024-04-23	US Lunch	16:15	17:00	0.75
+Moore, Abraham	2024-04-23	US Resource Review	17:00	17:15	0.25
+Moore, Abraham	2024-04-26	US ACD	11:30	22:00	9.25
+Moore, Abraham	2024-04-26	US Break	13:45	19:30	0.50
+Moore, Abraham	2024-04-26	US Lunch	16:00	16:45	0.75
+Parker, Edra	2024-03-15	US ACD	11:45	22:00	9.25
+Parker, Edra	2024-03-15	US Break	13:30	19:30	0.50
+Parker, Edra	2024-03-15	US Lunch	16:15	16:45	0.50
+Parker, Edra	2024-03-17	US ACD	11:45	21:00	8.25
+Parker, Edra	2024-03-17	US Break	14:00	19:30	0.50
+Parker, Edra	2024-03-17	US Lunch	16:15	16:45	0.50
+Parker, Edra	2024-03-17	US Partial	21:00	22:00	1.00
+Parker, Edra	2024-03-18	US ACD Office	11:45	22:00	8.25
+Parker, Edra	2024-03-18	US Break	13:45	19:45	0.50
+Parker, Edra	2024-03-18	US Lunch	16:30	17:00	0.50
+Parker, Edra	2024-03-18	US Meeting	15:00	16:00	1.00
+Parker, Edra	2024-03-19	US ACD	11:45	17:46	4.02
+Parker, Edra	2024-03-19	US Break	13:45	14:00	0.25
+Parker, Edra	2024-03-19	US Lunch	16:30	17:00	0.50
+Parker, Edra	2024-03-19	US Partial	17:46	22:00	4.23
+Parker, Edra	2024-03-19	US Resource Review	15:00	15:15	0.25
+Parker, Edra	2024-03-19	US Training	15:15	16:15	1.00
+Parker, Edra	2024-03-22	US ACD	11:45	22:00	9.25
+Parker, Edra	2024-03-22	US Break	14:00	19:45	0.50
+Parker, Edra	2024-03-22	US Lunch	16:30	17:00	0.50
+Parker, Edra	2024-03-24	US ACD	11:45	22:00	9.25
+Parker, Edra	2024-03-24	US Break	13:45	19:30	0.50
+Parker, Edra	2024-03-24	US Lunch	16:15	16:45	0.50
+Parker, Edra	2024-03-25	US ACD	11:45	22:00	9.25
+Parker, Edra	2024-03-25	US Break	13:30	19:30	0.50
+Parker, Edra	2024-03-25	US Lunch	16:15	16:45	0.50
+Parker, Edra	2024-03-26	US ACD	12:46	22:00	7.98
+Parker, Edra	2024-03-26	US Break	13:45	19:30	0.50
+Parker, Edra	2024-03-26	US Lunch	16:15	16:45	0.50
+Parker, Edra	2024-03-26	US Resource Review	15:00	15:15	0.25
+Parker, Edra	2024-03-26	US Tardy	11:45	12:46	1.02
+Parker, Edra	2024-03-29	US ACD	11:45	22:00	9.25
+Parker, Edra	2024-03-29	US Break	14:00	19:30	0.50
+Parker, Edra	2024-03-29	US Lunch	16:15	16:45	0.50
+Parker, Edra	2024-03-31	US NCL	11:45	18:00	6.25
+Parker, Edra	2024-03-31	US Stat Holiday	18:00	22:00	4.00
+Parker, Edra	2024-04-01	US ACD Office	11:55	22:00	8.08
+Parker, Edra	2024-04-01	US Break	13:45	19:45	0.50
+Parker, Edra	2024-04-01	US Lunch	16:30	17:00	0.50
+Parker, Edra	2024-04-01	US Meeting	15:00	16:00	1.00
+Parker, Edra	2024-04-01	US Tardy	11:45	11:55	0.17
+Parker, Edra	2024-04-02	US ACD	12:50	22:00	7.92
+Parker, Edra	2024-04-02	US Break	14:00	19:45	0.50
+Parker, Edra	2024-04-02	US Lunch	16:30	17:00	0.50
+Parker, Edra	2024-04-02	US Resource Review	15:00	15:15	0.25
+Parker, Edra	2024-04-02	US Tardy	11:45	12:50	1.08
+Parker, Edra	2024-04-05	US ACD	11:45	22:00	8.75
+Parker, Edra	2024-04-05	US Break	14:00	19:30	0.50
+Parker, Edra	2024-04-05	US Lunch	16:30	17:00	0.50
+Parker, Edra	2024-04-05	US Training	13:30	14:00	0.50
+Parker, Edra	2024-04-07	US ACD	11:45	22:00	9.25
+Parker, Edra	2024-04-07	US Break	13:45	19:45	0.50
+Parker, Edra	2024-04-07	US Lunch	16:30	17:00	0.50
+Parker, Edra	2024-04-08	US ACD Office	11:45	22:00	9.25
+Parker, Edra	2024-04-08	US Break	13:30	19:30	0.50
+Parker, Edra	2024-04-08	US Lunch	16:15	16:45	0.50
+Parker, Edra	2024-04-09	US ACD	11:45	22:00	8.50
+Parker, Edra	2024-04-09	US Break	13:45	19:30	0.50
+Parker, Edra	2024-04-09	US Lunch	16:30	17:00	0.50
+Parker, Edra	2024-04-09	US Meeting	17:00	17:30	0.50
+Parker, Edra	2024-04-09	US Resource Review	15:00	15:15	0.25
+Parker, Edra	2024-04-12	US ACD	11:45	22:00	8.75
+Parker, Edra	2024-04-12	US Break	14:00	19:30	0.50
+Parker, Edra	2024-04-12	US Coaching	16:30	17:00	0.50
+Parker, Edra	2024-04-12	US Lunch	16:00	16:30	0.50
+Parker, Edra	2024-04-14	US ACD	12:45	22:00	8.25
+Parker, Edra	2024-04-14	US Break	15:00	20:00	0.50
+Parker, Edra	2024-04-14	US Lunch	17:15	17:45	0.50
+Parker, Edra	2024-04-14	US Tardy	11:45	12:45	1.00
+Parker, Edra	2024-04-15	US ACD Office	11:56	22:00	7.32
+Parker, Edra	2024-04-15	US Break	14:00	19:30	0.50
+Parker, Edra	2024-04-15	US Lunch	16:30	17:00	0.50
+Parker, Edra	2024-04-15	US Meeting	15:00	16:15	1.25
+Parker, Edra	2024-04-15	US Tardy	11:45	11:56	0.18
+Parker, Edra	2024-04-15	US Training	19:30	20:00	0.50
+Parker, Edra	2024-04-16	US ACD	11:45	22:00	8.50
+Parker, Edra	2024-04-16	US Break	13:45	19:30	0.50
+Parker, Edra	2024-04-16	US Lunch	17:00	17:30	0.50
+Parker, Edra	2024-04-16	US Meeting	16:30	17:00	0.50
+Parker, Edra	2024-04-16	US Resource Review	15:00	15:15	0.25
+Parker, Edra	2024-04-19	US ACD	11:45	22:00	8.50
+Parker, Edra	2024-04-19	US Break	14:00	19:30	0.50
+Parker, Edra	2024-04-19	US Lunch	16:15	16:45	0.50
+Parker, Edra	2024-04-19	US Training	14:15	15:00	0.75
+Parker, Edra	2024-04-21	US ACD	11:45	19:15	6.75
+Parker, Edra	2024-04-21	US Break	13:45	19:25	0.42
+Parker, Edra	2024-04-21	US Lunch	16:30	17:00	0.50
+Parker, Edra	2024-04-21	US Partial	19:25	22:00	2.58
+Parker, Edra	2024-04-22	US Absent Planned	00:00	22:00	24.00
+Parker, Edra	2024-04-23	US ACD	11:45	22:00	9.00
+Parker, Edra	2024-04-23	US Break	14:00	19:30	0.50
+Parker, Edra	2024-04-23	US Lunch	16:00	16:30	0.50
+Parker, Edra	2024-04-23	US Resource Review	15:00	15:15	0.25
+Parker, Edra	2024-04-26	US ACD	11:45	22:00	9.25
+Parker, Edra	2024-04-26	US Break	14:00	19:30	0.50
+Parker, Edra	2024-04-26	US Lunch	16:15	16:45	0.50
+Puller, Paige	2024-03-15	US Break	12:45	18:15	0.50
+Puller, Paige	2024-03-15	US Lunch	15:00	15:30	0.50
+Puller, Paige	2024-03-15	US Project Work	10:30	20:45	9.25
+Puller, Paige	2024-03-17	US Admin Casework	10:30	20:45	9.25
+Puller, Paige	2024-03-17	US Break	12:45	18:15	0.50
+Puller, Paige	2024-03-17	US Lunch	15:15	15:45	0.50
+Puller, Paige	2024-03-18	US ACD Office	14:30	20:45	4.50
+Puller, Paige	2024-03-18	US Break	16:30	16:45	0.25
+Puller, Paige	2024-03-18	US Lunch	18:30	19:00	0.50
+Puller, Paige	2024-03-18	US Meeting	15:00	16:00	1.00
+Puller, Paige	2024-03-18	US Tardy	10:30	14:30	4.00
+Puller, Paige	2024-03-19	US Admin Casework	10:30	20:45	9.00
+Puller, Paige	2024-03-19	US Break	12:30	18:30	0.50
+Puller, Paige	2024-03-19	US Lunch	15:15	15:45	0.50
+Puller, Paige	2024-03-19	US Resource Review	17:00	17:15	0.25
+Puller, Paige	2024-03-22	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-03-24	US Admin Casework	10:30	20:45	9.25
+Puller, Paige	2024-03-24	US Break	12:45	18:30	0.50
+Puller, Paige	2024-03-24	US Lunch	15:15	15:45	0.50
+Puller, Paige	2024-03-25	US ACD	13:30	20:45	6.50
+Puller, Paige	2024-03-25	US Break	15:45	16:00	0.25
+Puller, Paige	2024-03-25	US Lunch	18:15	18:45	0.50
+Puller, Paige	2024-03-25	US Tardy	10:30	13:30	3.00
+Puller, Paige	2024-03-26	US Admin Casework	10:30	20:45	9.00
+Puller, Paige	2024-03-26	US Break	12:45	18:30	0.50
+Puller, Paige	2024-03-26	US Lunch	15:15	15:45	0.50
+Puller, Paige	2024-03-26	US Resource Review	17:00	17:15	0.25
+Puller, Paige	2024-03-29	US ACD	10:30	20:45	9.25
+Puller, Paige	2024-03-29	US Break	12:45	18:15	0.50
+Puller, Paige	2024-03-29	US Lunch	15:00	15:30	0.50
+Puller, Paige	2024-03-31	US ACD	10:30	18:00	6.75
+Puller, Paige	2024-03-31	US Break	12:30	12:45	0.25
+Puller, Paige	2024-03-31	US Lunch	15:15	15:45	0.50
+Puller, Paige	2024-03-31	US Stat Holiday	18:00	20:45	2.75
+Puller, Paige	2024-04-01	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-04-02	US Admin Casework	10:30	20:45	9.00
+Puller, Paige	2024-04-02	US Break	12:30	18:30	0.50
+Puller, Paige	2024-04-02	US Lunch	15:15	15:45	0.50
+Puller, Paige	2024-04-02	US Resource Review	17:00	17:15	0.25
+Puller, Paige	2024-04-05	US Admin Casework	10:30	20:45	8.75
+Puller, Paige	2024-04-05	US Break	12:30	18:30	0.50
+Puller, Paige	2024-04-05	US Lunch	15:15	15:45	0.50
+Puller, Paige	2024-04-05	US Training	11:00	11:30	0.50
+Puller, Paige	2024-04-07	US NCL	10:30	20:45	10.25
+Puller, Paige	2024-04-08	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-04-09	US Admin Casework	10:30	20:45	8.50
+Puller, Paige	2024-04-09	US Break	12:30	18:30	0.50
+Puller, Paige	2024-04-09	US Lunch	15:15	15:45	0.50
+Puller, Paige	2024-04-09	US Meeting	16:00	16:30	0.50
+Puller, Paige	2024-04-09	US Resource Review	17:00	17:15	0.25
+Puller, Paige	2024-04-12	US Absent Planned	00:00	20:45	24.00
+Puller, Paige	2024-04-14	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-04-15	US ACD Office	14:32	20:45	3.72
+Puller, Paige	2024-04-15	US Break	16:15	16:30	0.25
+Puller, Paige	2024-04-15	US Lunch	18:15	18:45	0.50
+Puller, Paige	2024-04-15	US Meeting	15:00	16:15	1.25
+Puller, Paige	2024-04-15	US Tardy	10:30	14:32	4.03
+Puller, Paige	2024-04-15	US Training	17:30	18:00	0.50
+Puller, Paige	2024-04-16	US Admin Casework	10:30	20:45	9.00
+Puller, Paige	2024-04-16	US Break	12:30	18:30	0.50
+Puller, Paige	2024-04-16	US Lunch	15:15	15:45	0.50
+Puller, Paige	2024-04-16	US Resource Review	17:00	17:15	0.25
+Puller, Paige	2024-04-19	US Admin Casework	10:30	20:45	8.75
+Puller, Paige	2024-04-19	US Break	12:30	18:30	0.50
+Puller, Paige	2024-04-19	US Coaching	16:30	17:00	0.50
+Puller, Paige	2024-04-19	US Lunch	15:15	15:45	0.50
+Puller, Paige	2024-04-21	US ACD	12:30	20:45	7.25
+Puller, Paige	2024-04-21	US Break	14:15	18:45	0.50
+Puller, Paige	2024-04-21	US Lunch	16:15	16:45	0.50
+Puller, Paige	2024-04-21	US Tardy	10:30	12:30	2.00
+Puller, Paige	2024-04-22	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-04-23	US Admin Casework	10:30	14:49	3.32
+Puller, Paige	2024-04-23	US Break	12:30	12:45	0.25
+Puller, Paige	2024-04-23	US Partial	14:49	20:45	5.93
+Puller, Paige	2024-04-23	US Training	13:00	13:45	0.75
+Puller, Paige	2024-04-26	US Admin Casework	10:30	20:45	9.25
+Puller, Paige	2024-04-26	US Break	12:30	18:30	0.50
+Puller, Paige	2024-04-26	US Lunch	15:15	15:45	0.50
+Thompson, Dennis	2024-03-13	US ACD	20:00	22:00	2.00
+Thompson, Dennis	2024-03-15	US Absent Unplanned	14:00	22:00	8.00
+Thompson, Dennis	2024-03-16	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-03-18	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-03-19	US ACD	13:30	22:00	6.25
+Thompson, Dennis	2024-03-19	US Break	15:15	20:15	0.50
+Thompson, Dennis	2024-03-19	US Lunch	17:30	18:00	0.50
+Thompson, Dennis	2024-03-19	US Resource Review	15:30	15:45	0.25
+Thompson, Dennis	2024-03-19	US Training	15:45	16:45	1.00
+Thompson, Dennis	2024-03-20	US ACD	14:00	22:00	7.00
+Thompson, Dennis	2024-03-20	US Break	15:45	20:30	0.50
+Thompson, Dennis	2024-03-20	US Lunch	18:15	18:45	0.50
+Thompson, Dennis	2024-03-22	US ACD	13:30	22:00	7.50
+Thompson, Dennis	2024-03-22	US Break	15:30	20:00	0.50
+Thompson, Dennis	2024-03-22	US Lunch	17:45	18:15	0.50
+Thompson, Dennis	2024-03-23	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-03-25	US ACD	13:30	22:00	7.50
+Thompson, Dennis	2024-03-25	US Break	15:30	20:00	0.50
+Thompson, Dennis	2024-03-25	US Lunch	17:15	17:45	0.50
+Thompson, Dennis	2024-03-26	US ACD	14:00	22:00	6.75
+Thompson, Dennis	2024-03-26	US Break	16:15	21:00	0.50
+Thompson, Dennis	2024-03-26	US Lunch	18:45	19:15	0.50
+Thompson, Dennis	2024-03-26	US Resource Review	15:30	15:45	0.25
+Thompson, Dennis	2024-03-27	US ACD	13:30	20:53	6.38
+Thompson, Dennis	2024-03-27	US Break	15:15	20:00	0.50
+Thompson, Dennis	2024-03-27	US Lunch	17:15	17:45	0.50
+Thompson, Dennis	2024-03-27	US Partial	20:53	22:00	1.12
+Thompson, Dennis	2024-03-29	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-03-30	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-04-01	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-04-02	US ACD	14:00	16:48	2.30
+Thompson, Dennis	2024-04-02	US Break	15:45	16:00	0.25
+Thompson, Dennis	2024-04-02	US Partial	16:48	22:00	5.20
+Thompson, Dennis	2024-04-02	US Resource Review	15:30	15:45	0.25
+Thompson, Dennis	2024-04-03	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-04-05	US ACD	13:30	22:00	7.00
+Thompson, Dennis	2024-04-05	US Break	15:30	20:00	0.50
+Thompson, Dennis	2024-04-05	US Lunch	17:45	18:15	0.50
+Thompson, Dennis	2024-04-05	US Training	17:15	17:45	0.50
+Thompson, Dennis	2024-04-06	US ACD	13:30	22:00	7.50
+Thompson, Dennis	2024-04-06	US Break	15:00	20:00	0.50
+Thompson, Dennis	2024-04-06	US Lunch	17:15	17:45	0.50
+Thompson, Dennis	2024-04-08	US ACD Office	13:30	22:00	7.25
+Thompson, Dennis	2024-04-08	US Break	15:30	20:30	0.50
+Thompson, Dennis	2024-04-08	US Lunch	17:45	18:15	0.50
+Thompson, Dennis	2024-04-08	US Meeting	16:30	16:45	0.25
+Thompson, Dennis	2024-04-09	US ACD	14:00	22:00	6.75
+Thompson, Dennis	2024-04-09	US Break	15:45	20:45	0.50
+Thompson, Dennis	2024-04-09	US Lunch	17:30	18:00	0.50
+Thompson, Dennis	2024-04-09	US Resource Review	15:30	15:45	0.25
+Thompson, Dennis	2024-04-10	US ACD	13:30	22:00	7.00
+Thompson, Dennis	2024-04-10	US Break	15:15	20:15	0.50
+Thompson, Dennis	2024-04-10	US Lunch	17:30	18:00	0.50
+Thompson, Dennis	2024-04-10	US Meeting	16:30	17:00	0.50
+Thompson, Dennis	2024-04-12	US ACD	13:30	22:00	7.00
+Thompson, Dennis	2024-04-12	US Break	15:00	20:00	0.50
+Thompson, Dennis	2024-04-12	US Coaching	17:00	17:30	0.50
+Thompson, Dennis	2024-04-12	US Lunch	17:30	18:00	0.50
+Thompson, Dennis	2024-04-13	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-04-15	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-04-16	US ACD	14:00	22:00	6.75
+Thompson, Dennis	2024-04-16	US Break	16:15	20:45	0.50
+Thompson, Dennis	2024-04-16	US Lunch	17:30	18:00	0.50
+Thompson, Dennis	2024-04-16	US Resource Review	15:30	15:45	0.25
+Thompson, Dennis	2024-04-17	US ACD	13:30	18:19	4.07
+Thompson, Dennis	2024-04-17	US Break	15:30	15:45	0.25
+Thompson, Dennis	2024-04-17	US Lunch	17:45	18:15	0.50
+Thompson, Dennis	2024-04-17	US Partial	18:19	22:00	3.68
+Thompson, Dennis	2024-04-19	US ACD	13:30	22:00	6.50
+Thompson, Dennis	2024-04-19	US Break	15:00	20:00	0.50
+Thompson, Dennis	2024-04-19	US Lunch	17:15	17:45	0.50
+Thompson, Dennis	2024-04-19	US Meeting	16:00	16:30	0.50
+Thompson, Dennis	2024-04-19	US Training	17:45	18:15	0.50
+Thompson, Dennis	2024-04-20	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-04-22	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-04-23	US ACD	14:00	16:58	2.47
+Thompson, Dennis	2024-04-23	US Break	15:45	16:00	0.25
+Thompson, Dennis	2024-04-23	US Partial	16:58	22:00	5.03
+Thompson, Dennis	2024-04-23	US Resource Review	15:30	15:45	0.25
+Thompson, Dennis	2024-04-24	US ACD	13:30	22:00	7.25
+Thompson, Dennis	2024-04-24	US Break	15:00	20:00	0.50
+Thompson, Dennis	2024-04-24	US Lunch	17:15	17:45	0.50
+Thompson, Dennis	2024-04-24	US Meeting	15:15	15:30	0.25
+Thompson, Dennis	2024-04-26	US ACD	13:30	22:00	7.50
+Thompson, Dennis	2024-04-26	US Break	15:30	20:00	0.50
+Thompson, Dennis	2024-04-26	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-03-13	US ACD	21:00	22:00	1.00
+Weaver, Erica	2024-03-13	US Break	20:45	21:00	0.25
+Weaver, Erica	2024-03-15	US ACD	13:30	22:00	7.50
+Weaver, Erica	2024-03-15	US Break	15:30	20:15	0.50
+Weaver, Erica	2024-03-15	US Lunch	17:30	18:00	0.50
+Weaver, Erica	2024-03-16	US ACD	13:30	22:00	7.50
+Weaver, Erica	2024-03-16	US Break	15:00	20:00	0.50
+Weaver, Erica	2024-03-16	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-03-18	US ACD Office	13:30	22:00	6.50
+Weaver, Erica	2024-03-18	US Break	14:45	20:00	0.50
+Weaver, Erica	2024-03-18	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-03-18	US Meeting	15:00	16:00	1.00
+Weaver, Erica	2024-03-19	US ACD	13:30	22:00	6.25
+Weaver, Erica	2024-03-19	US Break	15:15	20:15	0.50
+Weaver, Erica	2024-03-19	US Lunch	17:30	18:00	0.50
+Weaver, Erica	2024-03-19	US Resource Review	15:30	15:45	0.25
+Weaver, Erica	2024-03-19	US Training	15:45	16:45	1.00
+Weaver, Erica	2024-03-20	US ACD	15:00	22:00	6.00
+Weaver, Erica	2024-03-20	US Break	16:00	21:00	0.50
+Weaver, Erica	2024-03-20	US Lunch	18:15	18:45	0.50
+Weaver, Erica	2024-03-20	US Meeting	14:00	15:00	1.00
+Weaver, Erica	2024-03-22	US Absent Planned	00:00	22:00	37.50
+Weaver, Erica	2024-03-23	US Absent Planned	13:30	22:00	10.50
+Weaver, Erica	2024-03-25	US Absent Unplanned	13:30	22:00	8.50
+Weaver, Erica	2024-03-26	US ACD	13:30	17:45	4.00
+Weaver, Erica	2024-03-26	US Lunch	17:45	18:05	0.33
+Weaver, Erica	2024-03-26	US Partial	18:05	22:00	3.92
+Weaver, Erica	2024-03-26	US Resource Review	15:30	15:45	0.25
+Weaver, Erica	2024-03-27	US ACD	14:00	22:00	7.00
+Weaver, Erica	2024-03-27	US Break	15:45	20:45	0.50
+Weaver, Erica	2024-03-27	US Lunch	18:30	19:00	0.50
+Weaver, Erica	2024-03-29	US ACD	13:30	22:00	7.50
+Weaver, Erica	2024-03-29	US Break	15:30	20:15	0.50
+Weaver, Erica	2024-03-29	US Lunch	17:45	18:15	0.50
+Weaver, Erica	2024-03-30	US ACD	13:30	22:00	7.50
+Weaver, Erica	2024-03-30	US Break	15:00	20:00	0.50
+Weaver, Erica	2024-03-30	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-04-01	US ACD Office	13:30	22:00	6.50
+Weaver, Erica	2024-04-01	US Break	16:00	20:15	0.50
+Weaver, Erica	2024-04-01	US Lunch	17:30	18:00	0.50
+Weaver, Erica	2024-04-01	US Meeting	15:00	16:00	1.00
+Weaver, Erica	2024-04-02	US ACD	14:00	22:00	6.75
+Weaver, Erica	2024-04-02	US Break	15:45	20:45	0.50
+Weaver, Erica	2024-04-02	US Lunch	18:30	19:00	0.50
+Weaver, Erica	2024-04-02	US Resource Review	15:30	15:45	0.25
+Weaver, Erica	2024-04-03	US ACD	13:30	22:00	7.50
+Weaver, Erica	2024-04-03	US Break	15:15	20:15	0.50
+Weaver, Erica	2024-04-03	US Lunch	17:30	18:00	0.50
+Weaver, Erica	2024-04-05	US ACD	13:30	22:00	7.00
+Weaver, Erica	2024-04-05	US Break	15:30	20:00	0.50
+Weaver, Erica	2024-04-05	US Lunch	17:45	18:15	0.50
+Weaver, Erica	2024-04-05	US Training	16:30	17:00	0.50
+Weaver, Erica	2024-04-06	US ACD	13:30	22:00	7.50
+Weaver, Erica	2024-04-06	US Break	15:15	20:00	0.50
+Weaver, Erica	2024-04-06	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-04-08	US ACD Office	13:30	22:00	7.50
+Weaver, Erica	2024-04-08	US Break	15:30	20:30	0.50
+Weaver, Erica	2024-04-08	US Lunch	17:45	18:15	0.50
+Weaver, Erica	2024-04-09	US ACD	14:00	22:00	6.75
+Weaver, Erica	2024-04-09	US Break	15:45	20:45	0.50
+Weaver, Erica	2024-04-09	US Lunch	17:30	18:00	0.50
+Weaver, Erica	2024-04-09	US Resource Review	15:30	15:45	0.25
+Weaver, Erica	2024-04-10	US ACD	13:30	22:00	7.00
+Weaver, Erica	2024-04-10	US Break	15:30	20:30	0.50
+Weaver, Erica	2024-04-10	US Lunch	17:45	18:15	0.50
+Weaver, Erica	2024-04-10	US Meeting	16:00	16:30	0.50
+Weaver, Erica	2024-04-12	US ACD	13:30	22:00	7.50
+Weaver, Erica	2024-04-12	US Break	15:00	20:00	0.50
+Weaver, Erica	2024-04-12	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-04-13	US ACD	13:30	22:00	7.50
+Weaver, Erica	2024-04-13	US Break	15:30	20:30	0.50
+Weaver, Erica	2024-04-13	US Lunch	17:45	18:15	0.50
+Weaver, Erica	2024-04-15	US ACD Office	13:30	22:00	6.25
+Weaver, Erica	2024-04-15	US Break	16:15	20:30	0.50
+Weaver, Erica	2024-04-15	US Lunch	18:00	18:30	0.50
+Weaver, Erica	2024-04-15	US Meeting	15:00	16:15	1.25
+Weaver, Erica	2024-04-16	US ACD	13:30	22:00	6.50
+Weaver, Erica	2024-04-16	US Break	15:00	20:00	0.50
+Weaver, Erica	2024-04-16	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-04-16	US Resource Review	15:30	15:45	0.25
+Weaver, Erica	2024-04-16	US Training	20:00	20:45	0.75
+Weaver, Erica	2024-04-17	US ACD	13:30	22:00	6.00
+Weaver, Erica	2024-04-17	US Break	15:00	20:00	0.50
+Weaver, Erica	2024-04-17	US Coaching	16:30	17:00	0.50
+Weaver, Erica	2024-04-17	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-04-17	US Meeting	14:00	15:00	1.00
+Weaver, Erica	2024-04-19	US ACD	14:00	22:00	6.50
+Weaver, Erica	2024-04-19	US Break	15:45	20:30	0.50
+Weaver, Erica	2024-04-19	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-04-19	US Training	16:00	16:30	0.50
+Weaver, Erica	2024-04-20	US ACD	13:30	22:00	7.50
+Weaver, Erica	2024-04-20	US Break	15:00	20:00	0.50
+Weaver, Erica	2024-04-20	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-04-22	US ACD Office	13:30	22:00	7.50
+Weaver, Erica	2024-04-22	US Break	15:15	20:00	0.50
+Weaver, Erica	2024-04-22	US Lunch	17:15	17:45	0.50
+Weaver, Erica	2024-04-23	US Absent Unplanned	13:30	22:00	8.50
+Weaver, Erica	2024-04-24	US ACD	13:30	15:30	1.75
+Weaver, Erica	2024-04-24	US Break	15:00	15:15	0.25
+Weaver, Erica	2024-04-24	US Partial	15:30	22:00	6.50
+Weaver, Erica	2024-04-26	US ACD	14:00	20:30	5.75
+Weaver, Erica	2024-04-26	US Break	16:15	16:30	0.25
+Weaver, Erica	2024-04-26	US Lunch	17:45	18:15	0.50
