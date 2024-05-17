@@ -1,48 +1,86 @@
 Submit Date	Initiator	Approver	Att./abs. type text	Start Date	End Date	Absence hrs
-2024-02-16	Moore, Abraham	Oluwarotimi Malomo	Holiday Pay	2024-02-20	2024-02-20	10.0
-2024-02-26	Moore, Abraham	Oluwarotimi Malomo	Sick	2024-02-26	2024-02-26	4.0
-2024-02-25	Moore, Abraham	Oluwarotimi Malomo	PTO	2024-02-27	2024-02-27	10.0
-2024-03-03	Moore, Abraham	Oluwarotimi Malomo	Holiday Pay	2024-03-05	2024-03-05	10.0
-2024-03-10	Moore, Abraham	Oluwarotimi Malomo	PTO	2024-03-12	2024-03-12	6.0
-2024-02-18	Jefferies, Chavelle	Oluwarotimi Malomo	Holiday Pay	2024-02-12	2024-02-12	10.0
-2024-02-18	Jefferies, Chavelle	Oluwarotimi Malomo	Holiday Pay	2024-02-13	2024-02-13	10.0
-2024-02-18	Jefferies, Chavelle	Oluwarotimi Malomo	Holiday Pay	2024-02-16	2024-02-16	10.0
-2024-02-18	Jefferies, Chavelle	Oluwarotimi Malomo	Holiday Pay	2024-02-18	2024-02-18	10.0
-2024-02-26	Jefferies, Chavelle	Oluwarotimi Malomo	Holiday Pay	2024-02-19	2024-02-19	10.0
-2024-02-26	Jefferies, Chavelle	Oluwarotimi Malomo	PTO	2024-02-20	2024-02-20	10.0
-2024-02-26	Jefferies, Chavelle	Oluwarotimi Malomo	Sick	2024-02-23	2024-02-23	10.0
-2024-03-10	Jefferies, Chavelle	Oluwarotimi Malomo	Sick	2024-03-26	2024-03-26	10.0
-2024-02-24	Thompson, Dennis	Oluwarotimi Malomo	Sick	2024-02-23	2024-02-23	8.0
-2024-03-08	Thompson, Dennis	Oluwarotimi Malomo	Sick	2024-03-08	2024-03-08	5.45
-2024-02-21	Parker, Edra	Oluwarotimi Malomo	PTO	2024-02-19	2024-02-19	4.0
-2024-02-27	Parker, Edra	Oluwarotimi Malomo	Sick	2024-02-27	2024-02-27	2.0
-2024-03-06	Parker, Edra	Oluwarotimi Malomo	PTO	2024-03-04	2024-03-04	1.0
-2024-03-11	Parker, Edra	Oluwarotimi Malomo	Sick	2024-03-11	2024-03-11	5.0
-2024-02-26	Coombs-Martin, India	Oluwarotimi Malomo	Sick	2024-02-25	2024-02-25	2.0
-2024-03-02	Coombs-Martin, India	Oluwarotimi Malomo	Sick	2024-03-02	2024-03-02	2.0
-2024-03-04	Coombs-Martin, India	Oluwarotimi Malomo	PTO	2024-03-05	2024-03-05	4.0
-2024-03-04	Coombs-Martin, India	Oluwarotimi Malomo	Holiday Pay	2024-04-08	2024-04-08	10.0
-2024-03-04	Coombs-Martin, India	Oluwarotimi Malomo	PTO	2024-04-09	2024-04-09	10.0
-2024-03-04	Coombs-Martin, India	Oluwarotimi Malomo	PTO	2024-04-13	2024-04-13	10.0
-2024-02-23	Puller, Paige	Oluwarotimi Malomo	PTO	2024-02-23	2024-02-23	3.0
-2024-02-25	Puller, Paige	Oluwarotimi Malomo	Holiday Pay	2024-02-25	2024-02-25	2.0
-2024-02-25	Puller, Paige	Oluwarotimi Malomo	PTO	2024-02-25	2024-02-25	1.0
-2024-02-27	Puller, Paige	Oluwarotimi Malomo	PTO	2024-02-27	2024-02-27	4.0
-2024-03-09	Puller, Paige	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-03	2024-03-03	10.0
-2024-03-09	Puller, Paige	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-04	2024-03-04	10.0
-2024-02-21	Cook, Tanika	Oluwarotimi Malomo	PTO	2024-02-24	2024-02-24	4.0
-2024-02-25	Drayton, Tanya	Oluwarotimi Malomo	Holiday Pay	2024-02-12	2024-02-12	10.0
-2024-02-18	Drayton, Tanya	Oluwarotimi Malomo	PTO	2024-02-13	2024-02-13	5.0
-2024-02-18	Drayton, Tanya	Oluwarotimi Malomo	Holiday Pay	2024-02-16	2024-02-16	1.0
-2024-02-18	Drayton, Tanya	Oluwarotimi Malomo	Holiday Pay	2024-02-17	2024-02-17	4.0
-2024-02-18	Drayton, Tanya	Oluwarotimi Malomo	Holiday Pay	2024-02-19	2024-02-19	10.0
-2024-02-24	Drayton, Tanya	Oluwarotimi Malomo	Holiday Pay	2024-02-24	2024-02-24	4.0
-2024-03-08	Drayton, Tanya	Oluwarotimi Malomo	Sick	2024-03-04	2024-03-04	10.0
-2024-03-08	Drayton, Tanya	Oluwarotimi Malomo	PTO	2024-03-05	2024-03-05	5.15
-2024-03-08	Drayton, Tanya	Oluwarotimi Malomo	PTO	2024-03-09	2024-03-09	1.0
-2024-03-08	Drayton, Tanya	Oluwarotimi Malomo	Holiday Pay	2024-03-22	2024-03-22	10.0
-2024-02-24	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	PTO	2024-02-17	2024-02-17	10.0
-2024-02-19	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Sick	2024-02-19	2024-02-19	3.5
-2024-02-27	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Holiday Pay	2024-02-28	2024-02-28	10.0
-2024-03-01	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	PTO	2024-03-02	2024-03-02	1.0
-2024-03-09	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Sick	2024-03-04	2024-03-04	2.0
+2024-03-18	Moore, Abraham	Oluwarotimi Malomo	Holiday Pay	2024-03-19	2024-03-19	2.0
+2024-03-31	Moore, Abraham	Oluwarotimi Malomo	PTO	2024-03-31	2024-03-31	4.0
+2024-03-31	Moore, Abraham	Asia Mccoy	PTO	2024-04-02	2024-04-02	10.0
+2024-04-15	Moore, Abraham	Oluwarotimi Malomo	Sick	2024-04-15	2024-04-15	1.0
+2024-04-22	Moore, Abraham	Oluwarotimi Malomo	Sick	2024-04-22	2024-04-22	1.0
+2024-05-03	Moore, Abraham	Oluwarotimi Malomo	PTO	2024-05-06	2024-05-06	10.0
+2024-03-22	Jefferies, Chavelle		Sick	2024-03-11	2024-03-11	10.0
+2024-03-22	Jefferies, Chavelle	Oluwarotimi Malomo	Sick	2024-03-26	2024-03-26	10.0
+2024-04-07	Jefferies, Chavelle	Oluwarotimi Malomo	PTO	2024-04-08	2024-04-08	10.0
+2024-05-07	Jefferies, Chavelle	Oluwarotimi Malomo	Sick	2024-05-06	2024-05-06	10.0
+2024-05-12	Jefferies, Chavelle	Oluwarotimi Malomo	PTO	2024-05-13	2024-05-13	9.0
+2024-03-19	Thompson, Dennis	Oluwarotimi Malomo	Sick	2024-03-15	2024-03-16	16.0
+2024-03-19	Thompson, Dennis	Oluwarotimi Malomo	Sick	2024-03-18	2024-03-18	8.0
+2024-03-25	Thompson, Dennis		Sick	2024-03-23	2024-03-23	8.0
+2024-04-06	Thompson, Dennis	Oluwarotimi Malomo	PTO	2024-03-30	2024-03-30	8.0
+2024-04-05	Thompson, Dennis	Oluwarotimi Malomo	Sick	2024-04-01	2024-04-01	8.0
+2024-04-05	Thompson, Dennis	Oluwarotimi Malomo	Sick	2024-04-03	2024-04-03	8.0
+2024-04-17	Thompson, Dennis	Oluwarotimi Malomo	PTO	2024-04-13	2024-04-13	8.0
+2024-04-17	Thompson, Dennis	Oluwarotimi Malomo	PTO	2024-04-15	2024-04-15	8.0
+2024-04-06	Thompson, Dennis	Oluwarotimi Malomo	PTO	2024-04-29	2024-04-29	8.0
+2024-03-18	Parker, Edra	Oluwarotimi Malomo	PTO	2024-03-17	2024-03-17	1.0
+2024-03-22	Parker, Edra	Oluwarotimi Malomo	PTO	2024-03-19	2024-03-19	4.0
+2024-03-26	Parker, Edra	Oluwarotimi Malomo	PTO	2024-03-26	2024-03-26	1.0
+2024-03-22	Parker, Edra	Oluwarotimi Malomo	Holiday Pay	2024-03-31	2024-03-31	10.0
+2024-04-02	Parker, Edra	Oluwarotimi Malomo	PTO	2024-04-02	2024-04-02	1.0
+2024-04-15	Parker, Edra	Oluwarotimi Malomo	PTO	2024-04-14	2024-04-14	1.0
+2024-04-22	Parker, Edra	Oluwarotimi Malomo	PTO	2024-04-21	2024-04-21	2.0
+2024-04-21	Parker, Edra	Oluwarotimi Malomo	PTO	2024-04-22	2024-04-22	10.0
+2024-04-27	Parker, Edra	Oluwarotimi Malomo	Sick	2024-04-29	2024-04-29	2.0
+2024-05-05	Parker, Edra	Oluwarotimi Malomo	PTO	2024-05-05	2024-05-05	3.0
+2024-04-30	Parker, Edra	Oluwarotimi Malomo	Holiday Pay	2024-05-14	2024-05-14	10.0
+2024-04-30	Parker, Edra	Oluwarotimi Malomo	Holiday Pay	2024-05-26	2024-05-26	10.0
+2024-03-25	Weaver, Erica	Oluwarotimi Malomo	Sick	2024-03-25	2024-03-25	8.0
+2024-03-27	Weaver, Erica	Oluwarotimi Malomo	Sick	2024-03-26	2024-03-26	4.0
+2024-04-24	Weaver, Erica	Oluwarotimi Malomo	Sick	2024-04-23	2024-04-23	8.0
+2024-04-26	Weaver, Erica	Oluwarotimi Malomo	PTO	2024-04-24	2024-04-24	6.0
+2024-05-06	Weaver, Erica	Oluwarotimi Malomo	PTO	2024-05-06	2024-05-06	1.0
+2024-05-06	Weaver, Erica	Oluwarotimi Malomo	Holiday Pay	2024-10-11	2024-10-12	16.0
+2024-03-17	Coombs-Martin, India	Oluwarotimi Malomo	Sick	2024-03-17	2024-03-17	8.0
+2024-03-31	Coombs-Martin, India	Oluwarotimi Malomo	Sick	2024-03-31	2024-03-31	3.0
+2024-03-31	Coombs-Martin, India	Oluwarotimi Malomo	PTO	2024-03-31	2024-03-31	1.0
+2024-04-06	Coombs-Martin, India	Oluwarotimi Malomo	Sick	2024-04-01	2024-04-01	1.0
+2024-04-24	Coombs-Martin, India	Oluwarotimi Malomo	Holiday Pay	2024-04-27	2024-04-27	10.0
+2024-03-26	Coombs-Martin, India	Oluwarotimi Malomo	PTO	2024-05-20	2024-05-20	10.0
+2024-03-12	Puller, Paige	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-10	2024-03-10	4.0
+2024-03-12	Puller, Paige	Oluwarotimi Malomo	Holiday Pay	2024-03-10	2024-03-10	6.0
+2024-03-12	Puller, Paige	Oluwarotimi Malomo	Holiday Pay	2024-03-11	2024-03-11	10.0
+2024-03-12	Puller, Paige	Oluwarotimi Malomo	PTO	2024-03-12	2024-03-12	4.0
+2024-03-18	Puller, Paige	Oluwarotimi Malomo	Holiday Pay	2024-03-18	2024-03-18	4.0
+2024-03-24	Puller, Paige	Oluwarotimi Malomo	Holiday Pay	2024-03-22	2024-03-22	10.0
+2024-03-31	Puller, Paige	Oluwarotimi Malomo	PTO	2024-03-25	2024-03-25	3.0
+2024-04-05	Puller, Paige	Oluwarotimi Malomo	Bereav-Relative	2024-04-07	2024-04-07	8.0
+2024-04-05	Puller, Paige	Oluwarotimi Malomo	PTO	2024-04-07	2024-04-07	2.0
+2024-03-24	Puller, Paige	Asia Mccoy	Holiday Pay	2024-04-12	2024-04-12	10.0
+2024-04-15	Puller, Paige	Oluwarotimi Malomo	PTO	2024-04-15	2024-04-15	4.0
+2024-04-26	Puller, Paige	Oluwarotimi Malomo	Bereav-Relative	2024-04-28	2024-04-28	8.0
+2024-04-26	Puller, Paige	Oluwarotimi Malomo	PTO	2024-04-28	2024-04-28	2.0
+2024-04-28	Puller, Paige	Oluwarotimi Malomo	PTO	2024-04-29	2024-04-29	1.0
+2024-05-12	Puller, Paige	Oluwarotimi Malomo	PTO	2024-05-12	2024-05-12	2.0
+2024-03-12	Puller, Paige	Oluwarotimi Malomo	Holiday Pay	2024-09-10	2024-09-10	10.0
+2024-03-12	Puller, Paige	Oluwarotimi Malomo	Holiday Pay	2024-09-13	2024-09-13	10.0
+2024-04-22	Cook, Tanika	Oluwarotimi Malomo	Sick	2024-04-22	2024-04-22	1.0
+2024-04-13	Cook, Tanika	Oluwarotimi Malomo	Holiday Pay	2024-04-29	2024-04-29	8.0
+2024-04-13	Cook, Tanika	Oluwarotimi Malomo	Holiday Pay	2024-05-06	2024-05-06	8.0
+2024-05-11	Cook, Tanika	Oluwarotimi Malomo	Sick	2024-05-10	2024-05-10	8.0
+2024-04-22	Cook, Tanika	Oluwarotimi Malomo	PTO	2024-05-18	2024-05-18	8.0
+2024-04-22	Cook, Tanika	Oluwarotimi Malomo	PTO	2024-06-01	2024-06-01	8.0
+2024-03-25	Drayton, Tanya	Oluwarotimi Malomo	PTO	2024-03-18	2024-03-18	7.0
+2024-03-25	Drayton, Tanya	Oluwarotimi Malomo	Sick	2024-03-18	2024-03-18	2.0
+2024-04-06	Drayton, Tanya	Oluwarotimi Malomo	Holiday Pay	2024-04-01	2024-04-01	10.0
+2024-04-07	Drayton, Tanya	Oluwarotimi Malomo	PTO	2024-04-06	2024-04-06	4.0
+2024-04-19	Drayton, Tanya	Oluwarotimi Malomo	PTO	2024-04-13	2024-04-13	6.0
+2024-04-29	Drayton, Tanya	Oluwarotimi Malomo	PTO	2024-04-22	2024-04-22	4.0
+2024-03-16	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-11	2024-03-11	10.0
+2024-03-25	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-27	2024-03-27	10.0
+2024-03-25	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-30	2024-03-30	10.0
+2024-04-03	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Sick	2024-04-03	2024-04-03	1.0
+2024-04-08	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Sick	2024-04-06	2024-04-06	10.0
+2024-04-08	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	PTO	2024-04-10	2024-04-10	5.0
+2024-04-16	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	PTO	2024-04-17	2024-04-17	5.0
+2024-05-04	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Sick	2024-05-01	2024-05-01	10.0
+2024-05-06	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Holiday Pay	2024-05-07	2024-05-07	10.0
+2024-05-07	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	PTO	2024-05-08	2024-05-08	10.0
+2024-04-22	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Holiday Pay	2024-05-11	2024-05-11	10.0
+2024-05-13	Ebaugh-Jennings, Teresa	Oluwarotimi Malomo	Sick	2024-05-13	2024-05-13	1.5
