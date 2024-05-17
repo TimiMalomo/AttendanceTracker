@@ -1,48 +1,86 @@
 Submit Date	Status	Pers.No. Initiator	Initiator	Approver	Att./abs. type text	Start Date	End Date	Absence hrs
-2024-02-16	POSTED	10039951	 Abraham Moore	Oluwarotimi Malomo	Holiday Pay	2024-02-20	2024-02-20	10.00
-2024-02-26	POSTED	10039951	 Abraham Moore	Oluwarotimi Malomo	Sick	2024-02-26	2024-02-26	4.00
-2024-02-25	POSTED	10039951	 Abraham Moore	Oluwarotimi Malomo	PTO	2024-02-27	2024-02-27	10.00
-2024-03-03	POSTED	10039951	 Abraham Moore	Oluwarotimi Malomo	Holiday Pay	2024-03-05	2024-03-05	10.00
-2024-03-10	POSTED	10039951	 Abraham Moore	Oluwarotimi Malomo	PTO	2024-03-12	2024-03-12	6.00
-2024-02-18	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	Holiday Pay	2024-02-12	2024-02-12	10.00
-2024-02-18	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	Holiday Pay	2024-02-13	2024-02-13	10.00
-2024-02-18	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	Holiday Pay	2024-02-16	2024-02-16	10.00
-2024-02-18	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	Holiday Pay	2024-02-18	2024-02-18	10.00
-2024-02-26	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	Holiday Pay	2024-02-19	2024-02-19	10.00
-2024-02-26	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	PTO	2024-02-20	2024-02-20	10.00
-2024-02-26	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	Sick	2024-02-23	2024-02-23	10.00
-2024-03-10	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	Sick	2024-03-26	2024-03-26	10.00
-2024-02-24	POSTED	10104589	 Dennis Thompson	Oluwarotimi Malomo	Sick	2024-02-23	2024-02-23	8.00
-2024-03-08	POSTED	10104589	 Dennis Thompson	Oluwarotimi Malomo	Sick	2024-03-08	2024-03-08	5.45
-2024-02-21	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	PTO	2024-02-19	2024-02-19	4.00
-2024-02-27	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	Sick	2024-02-27	2024-02-27	2.00
-2024-03-06	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	PTO	2024-03-04	2024-03-04	1.00
-2024-03-11	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	Sick	2024-03-11	2024-03-11	5.00
-2024-02-26	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	Sick	2024-02-25	2024-02-25	2.00
-2024-03-02	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	Sick	2024-03-02	2024-03-02	2.00
-2024-03-04	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	PTO	2024-03-05	2024-03-05	4.00
-2024-03-04	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	Holiday Pay	2024-04-08	2024-04-08	10.00
-2024-03-04	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	PTO	2024-04-09	2024-04-09	10.00
-2024-03-04	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	PTO	2024-04-13	2024-04-13	10.00
-2024-02-23	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	PTO	2024-02-23	2024-02-23	3.00
-2024-02-25	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Holiday Pay	2024-02-25	2024-02-25	2.00
-2024-02-25	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	PTO	2024-02-25	2024-02-25	1.00
-2024-02-27	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	PTO	2024-02-27	2024-02-27	4.00
-2024-03-09	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-03	2024-03-03	10.00
-2024-03-09	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-04	2024-03-04	10.00
-2024-02-21	POSTED	10036263	 Tanika Cook	Oluwarotimi Malomo	PTO	2024-02-24	2024-02-24	4.00
-2024-02-25	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	Holiday Pay	2024-02-12	2024-02-12	10.00
-2024-02-18	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	PTO	2024-02-13	2024-02-13	5.00
-2024-02-18	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	Holiday Pay	2024-02-16	2024-02-16	1.00
-2024-02-18	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	Holiday Pay	2024-02-17	2024-02-17	4.00
-2024-02-18	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	Holiday Pay	2024-02-19	2024-02-19	10.00
-2024-02-24	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	Holiday Pay	2024-02-24	2024-02-24	4.00
-2024-03-08	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	Sick	2024-03-04	2024-03-04	10.00
-2024-03-08	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	PTO	2024-03-05	2024-03-05	5.15
-2024-03-08	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	PTO	2024-03-09	2024-03-09	1.00
-2024-03-08	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	Holiday Pay	2024-03-22	2024-03-22	10.00
-2024-02-24	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	PTO	2024-02-17	2024-02-17	10.00
-2024-02-19	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Sick	2024-02-19	2024-02-19	3.50
-2024-02-27	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Holiday Pay	2024-02-28	2024-02-28	10.00
-2024-03-01	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	PTO	2024-03-02	2024-03-02	1.00
-2024-03-09	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Sick	2024-03-04	2024-03-04	2.00
+2024-03-18	POSTED	10039951	 Abraham Moore	Oluwarotimi Malomo	Holiday Pay	2024-03-19	2024-03-19	2.00
+2024-03-31	POSTED	10039951	 Abraham Moore	Oluwarotimi Malomo	PTO	2024-03-31	2024-03-31	4.00
+2024-03-31	POSTED	10039951	 Abraham Moore	Asia Mccoy	PTO	2024-04-02	2024-04-02	10.00
+2024-04-15	POSTED	10039951	 Abraham Moore	Oluwarotimi Malomo	Sick	2024-04-15	2024-04-15	1.00
+2024-04-22	POSTED	10039951	 Abraham Moore	Oluwarotimi Malomo	Sick	2024-04-22	2024-04-22	1.00
+2024-05-03	POSTED	10039951	 Abraham Moore	Oluwarotimi Malomo	PTO	2024-05-06	2024-05-06	10.00
+2024-03-22	POSTED	10070190	 Chavelle Jefferies		Sick	2024-03-11	2024-03-11	10.00
+2024-03-22	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	Sick	2024-03-26	2024-03-26	10.00
+2024-04-07	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	PTO	2024-04-08	2024-04-08	10.00
+2024-05-07	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	Sick	2024-05-06	2024-05-06	10.00
+2024-05-12	POSTED	10070190	 Chavelle Jefferies	Oluwarotimi Malomo	PTO	2024-05-13	2024-05-13	9.00
+2024-03-19	POSTED	10104589	 Dennis Thompson	Oluwarotimi Malomo	Sick	2024-03-15	2024-03-16	16.00
+2024-03-19	POSTED	10104589	 Dennis Thompson	Oluwarotimi Malomo	Sick	2024-03-18	2024-03-18	8.00
+2024-03-25	POSTED	10104589	 Dennis Thompson		Sick	2024-03-23	2024-03-23	8.00
+2024-04-06	POSTED	10104589	 Dennis Thompson	Oluwarotimi Malomo	PTO	2024-03-30	2024-03-30	8.00
+2024-04-05	POSTED	10104589	 Dennis Thompson	Oluwarotimi Malomo	Sick	2024-04-01	2024-04-01	8.00
+2024-04-05	POSTED	10104589	 Dennis Thompson	Oluwarotimi Malomo	Sick	2024-04-03	2024-04-03	8.00
+2024-04-17	POSTED	10104589	 Dennis Thompson	Oluwarotimi Malomo	PTO	2024-04-13	2024-04-13	8.00
+2024-04-17	POSTED	10104589	 Dennis Thompson	Oluwarotimi Malomo	PTO	2024-04-15	2024-04-15	8.00
+2024-04-06	POSTED	10104589	 Dennis Thompson	Oluwarotimi Malomo	PTO	2024-04-29	2024-04-29	8.00
+2024-03-18	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	PTO	2024-03-17	2024-03-17	1.00
+2024-03-22	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	PTO	2024-03-19	2024-03-19	4.00
+2024-03-26	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	PTO	2024-03-26	2024-03-26	1.00
+2024-03-22	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	Holiday Pay	2024-03-31	2024-03-31	10.00
+2024-04-02	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	PTO	2024-04-02	2024-04-02	1.00
+2024-04-15	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	PTO	2024-04-14	2024-04-14	1.00
+2024-04-22	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	PTO	2024-04-21	2024-04-21	2.00
+2024-04-21	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	PTO	2024-04-22	2024-04-22	10.00
+2024-04-27	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	Sick	2024-04-29	2024-04-29	2.00
+2024-05-05	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	PTO	2024-05-05	2024-05-05	3.00
+2024-04-30	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	Holiday Pay	2024-05-14	2024-05-14	10.00
+2024-04-30	POSTED	10089351	 Edra Parker	Oluwarotimi Malomo	Holiday Pay	2024-05-26	2024-05-26	10.00
+2024-03-25	POSTED	10104524	 Erica Weaver	Oluwarotimi Malomo	Sick	2024-03-25	2024-03-25	8.00
+2024-03-27	POSTED	10104524	 Erica Weaver	Oluwarotimi Malomo	Sick	2024-03-26	2024-03-26	4.00
+2024-04-24	POSTED	10104524	 Erica Weaver	Oluwarotimi Malomo	Sick	2024-04-23	2024-04-23	8.00
+2024-04-26	POSTED	10104524	 Erica Weaver	Oluwarotimi Malomo	PTO	2024-04-24	2024-04-24	6.00
+2024-05-06	POSTED	10104524	 Erica Weaver	Oluwarotimi Malomo	PTO	2024-05-06	2024-05-06	1.00
+2024-05-06	POSTED	10104524	 Erica Weaver	Oluwarotimi Malomo	Holiday Pay	2024-10-11	2024-10-12	16.00
+2024-03-17	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	Sick	2024-03-17	2024-03-17	8.00
+2024-03-31	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	Sick	2024-03-31	2024-03-31	3.00
+2024-03-31	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	PTO	2024-03-31	2024-03-31	1.00
+2024-04-06	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	Sick	2024-04-01	2024-04-01	1.00
+2024-04-24	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	Holiday Pay	2024-04-27	2024-04-27	10.00
+2024-03-26	POSTED	10051509	 India Coombs-Martin	Oluwarotimi Malomo	PTO	2024-05-20	2024-05-20	10.00
+2024-03-12	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-10	2024-03-10	4.00
+2024-03-12	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Holiday Pay	2024-03-10	2024-03-10	6.00
+2024-03-12	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Holiday Pay	2024-03-11	2024-03-11	10.00
+2024-03-12	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	PTO	2024-03-12	2024-03-12	4.00
+2024-03-18	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Holiday Pay	2024-03-18	2024-03-18	4.00
+2024-03-24	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Holiday Pay	2024-03-22	2024-03-22	10.00
+2024-03-31	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	PTO	2024-03-25	2024-03-25	3.00
+2024-04-05	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Bereav-Relative	2024-04-07	2024-04-07	8.00
+2024-04-05	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	PTO	2024-04-07	2024-04-07	2.00
+2024-03-24	POSTED	10079659	 Paige Puller	Asia Mccoy	Holiday Pay	2024-04-12	2024-04-12	10.00
+2024-04-15	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	PTO	2024-04-15	2024-04-15	4.00
+2024-04-26	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Bereav-Relative	2024-04-28	2024-04-28	8.00
+2024-04-26	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	PTO	2024-04-28	2024-04-28	2.00
+2024-04-28	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	PTO	2024-04-29	2024-04-29	1.00
+2024-05-12	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	PTO	2024-05-12	2024-05-12	2.00
+2024-03-12	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Holiday Pay	2024-09-10	2024-09-10	10.00
+2024-03-12	POSTED	10079659	 Paige Puller	Oluwarotimi Malomo	Holiday Pay	2024-09-13	2024-09-13	10.00
+2024-04-22	POSTED	10036263	 Tanika Cook	Oluwarotimi Malomo	Sick	2024-04-22	2024-04-22	1.00
+2024-04-13	POSTED	10036263	 Tanika Cook	Oluwarotimi Malomo	Holiday Pay	2024-04-29	2024-04-29	8.00
+2024-04-13	POSTED	10036263	 Tanika Cook	Oluwarotimi Malomo	Holiday Pay	2024-05-06	2024-05-06	8.00
+2024-05-11	POSTED	10036263	 Tanika Cook	Oluwarotimi Malomo	Sick	2024-05-10	2024-05-10	8.00
+2024-04-22	POSTED	10036263	 Tanika Cook	Oluwarotimi Malomo	PTO	2024-05-18	2024-05-18	8.00
+2024-04-22	POSTED	10036263	 Tanika Cook	Oluwarotimi Malomo	PTO	2024-06-01	2024-06-01	8.00
+2024-03-25	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	PTO	2024-03-18	2024-03-18	7.00
+2024-03-25	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	Sick	2024-03-18	2024-03-18	2.00
+2024-04-06	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	Holiday Pay	2024-04-01	2024-04-01	10.00
+2024-04-07	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	PTO	2024-04-06	2024-04-06	4.00
+2024-04-19	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	PTO	2024-04-13	2024-04-13	6.00
+2024-04-29	POSTED	10058436	 Tanya Drayton	Oluwarotimi Malomo	PTO	2024-04-22	2024-04-22	4.00
+2024-03-16	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-11	2024-03-11	10.00
+2024-03-25	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-27	2024-03-27	10.00
+2024-03-25	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Bereav-Extended Family	2024-03-30	2024-03-30	10.00
+2024-04-03	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Sick	2024-04-03	2024-04-03	1.00
+2024-04-08	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Sick	2024-04-06	2024-04-06	10.00
+2024-04-08	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	PTO	2024-04-10	2024-04-10	5.00
+2024-04-16	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	PTO	2024-04-17	2024-04-17	5.00
+2024-05-04	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Sick	2024-05-01	2024-05-01	10.00
+2024-05-06	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Holiday Pay	2024-05-07	2024-05-07	10.00
+2024-05-07	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	PTO	2024-05-08	2024-05-08	10.00
+2024-04-22	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Holiday Pay	2024-05-11	2024-05-11	10.00
+2024-05-13	POSTED	10068559	 Teresa Ebaugh-Jennings	Oluwarotimi Malomo	Sick	2024-05-13	2024-05-13	1.50
