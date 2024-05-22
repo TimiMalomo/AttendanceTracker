@@ -1,83 +1,55 @@
 Employee Name	Report Date	Activity Name	Activity Start	Activity End	Duration
-Cook, Tanika	2024-04-22	US Tardy	10:00	11:01	1.02
-Coombs-Martin, India	2024-03-17	US Partial	11:48	19:15	7.45
-Coombs-Martin, India	2024-03-31	US Tardy	09:00	12:00	3.00
-Coombs-Martin, India	2024-04-01	US Tardy	09:00	10:00	1.00
-Drayton, Tanya	2024-03-18	US Absent Unplanned	10:00	20:15	10.25
-Drayton, Tanya	2024-03-26	US Absent Unplanned	10:00	20:15	10.25
-Drayton, Tanya	2024-04-01	US Absent Unplanned	10:00	20:15	10.25
-Drayton, Tanya	2024-04-06	US Partial	15:35	20:15	4.67
-Drayton, Tanya	2024-04-06	US Tardy	10:00	10:34	0.57
-Drayton, Tanya	2024-04-08	US Tardy	10:00	10:22	0.37
-Drayton, Tanya	2024-04-09	US Tardy	10:00	10:13	0.22
-Drayton, Tanya	2024-04-13	US Absent Unplanned	10:00	20:15	10.25
-Drayton, Tanya	2024-04-16	US Absent Unplanned	10:00	20:15	10.25
-Drayton, Tanya	2024-04-20	US Partial	16:59	20:15	3.27
-Drayton, Tanya	2024-04-22	US Absent Unplanned	10:00	20:15	10.25
+Cook, Tanika	2024-04-27	US Tardy	10:00	10:14	0.23
+Cook, Tanika	2024-04-30	US Tardy	10:00	10:17	0.28
+Cook, Tanika	2024-05-10	US Absent Unplanned	10:00	18:30	8.50
+Cook, Tanika	2024-05-13	US Absent Unplanned	10:00	18:30	8.50
+Coombs-Martin, India	2024-04-27	US NCL	09:00	19:15	10.25
+Coombs-Martin, India	2024-04-29	US Tardy	09:00	09:11	0.18
+Coombs-Martin, India	2024-05-04	US Tardy	09:00	09:16	0.27
+Coombs-Martin, India	2024-05-12	US Tardy	09:00	09:10	0.17
+Coombs-Martin, India	2024-05-13	US Tardy	09:00	09:57	0.95
+Coombs-Martin, India	2024-05-18	US Tardy	09:00	09:40	0.67
 Drayton, Tanya	2024-04-26	US Tardy	10:00	10:41	0.68
-Ebaugh-Jennings, Teresa	2024-03-18	US Tardy	11:45	12:05	0.33
-Ebaugh-Jennings, Teresa	2024-03-26	US Absent Unplanned	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-03-27	US NCL	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-03-30	US NCL	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-04-01	US Tardy	11:45	13:55	2.16
-Ebaugh-Jennings, Teresa	2024-04-03	US Tardy	11:45	12:57	1.20
-Ebaugh-Jennings, Teresa	2024-04-06	US Absent Unplanned	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-04-08	US Absent Unplanned	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-04-15	US Tardy	11:45	15:16	3.52
-Ebaugh-Jennings, Teresa	2024-04-17	US NCL	11:45	22:00	10.25
-Ebaugh-Jennings, Teresa	2024-04-23	US Tardy	11:45	11:56	0.18
-Jefferies, Chavelle	2024-03-15	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-03-17	US Tardy	09:00	14:30	5.50
-Jefferies, Chavelle	2024-04-08	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-04-12	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-04-14	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-04-15	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-04-16	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-04-19	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-04-21	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-04-22	US Absent Unplanned	09:00	19:15	10.25
-Jefferies, Chavelle	2024-04-23	US Absent Unplanned	09:00	19:15	10.25
+Drayton, Tanya	2024-04-30	US Tardy	10:00	15:59	5.98
+Ebaugh-Jennings, Teresa	2024-04-27	US Tardy	11:45	11:55	0.17
+Ebaugh-Jennings, Teresa	2024-04-30	US Tardy	11:45	11:57	0.20
+Ebaugh-Jennings, Teresa	2024-05-01	US Absent Unplanned	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-05-06	US Absent Unplanned	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-05-07	US Absent Unplanned	11:45	22:00	10.25
+Ebaugh-Jennings, Teresa	2024-05-13	US Tardy	11:45	13:14	1.48
+Ebaugh-Jennings, Teresa	2024-05-20	US Tardy	11:45	12:16	0.52
 Jefferies, Chavelle	2024-04-26	US Absent Unplanned	09:00	19:15	10.25
-Moore, Abraham	2024-03-19	US Tardy	11:30	13:30	2.00
-Moore, Abraham	2024-04-15	US Tardy	11:30	12:30	1.00
-Moore, Abraham	2024-04-22	US Tardy	11:30	12:39	1.15
-Parker, Edra	2024-03-17	US Partial	21:00	22:00	1.00
-Parker, Edra	2024-03-19	US Partial	17:46	22:00	4.23
-Parker, Edra	2024-03-26	US Tardy	11:45	12:46	1.02
-Parker, Edra	2024-03-31	US NCL	11:45	18:00	6.25
-Parker, Edra	2024-04-01	US Tardy	11:45	11:55	0.17
-Parker, Edra	2024-04-02	US Tardy	11:45	12:50	1.08
-Parker, Edra	2024-04-14	US Tardy	11:45	12:45	1.00
-Parker, Edra	2024-04-15	US Tardy	11:45	11:56	0.18
-Parker, Edra	2024-04-21	US Partial	19:25	22:00	2.58
-Puller, Paige	2024-03-18	US Tardy	10:30	14:30	4.00
-Puller, Paige	2024-03-22	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-03-25	US Tardy	10:30	13:30	3.00
-Puller, Paige	2024-04-01	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-04-07	US NCL	10:30	20:45	10.25
-Puller, Paige	2024-04-08	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-04-14	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-04-15	US Tardy	10:30	14:32	4.03
-Puller, Paige	2024-04-21	US Tardy	10:30	12:30	2.00
-Puller, Paige	2024-04-22	US Absent Unplanned	10:30	20:45	10.25
-Puller, Paige	2024-04-23	US Partial	14:49	20:45	5.93
-Thompson, Dennis	2024-03-15	US Absent Unplanned	14:00	22:00	8.00
-Thompson, Dennis	2024-03-16	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-03-18	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-03-23	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-03-27	US Partial	20:53	22:00	1.12
-Thompson, Dennis	2024-03-29	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-03-30	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-04-01	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-04-02	US Partial	16:48	22:00	5.20
-Thompson, Dennis	2024-04-03	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-04-13	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-04-15	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-04-17	US Partial	18:19	22:00	3.68
-Thompson, Dennis	2024-04-20	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-04-22	US Absent Unplanned	13:30	22:00	8.50
-Thompson, Dennis	2024-04-23	US Partial	16:58	22:00	5.03
-Weaver, Erica	2024-03-25	US Absent Unplanned	13:30	22:00	8.50
-Weaver, Erica	2024-03-26	US Partial	18:05	22:00	3.92
-Weaver, Erica	2024-04-23	US Absent Unplanned	13:30	22:00	8.50
-Weaver, Erica	2024-04-24	US Partial	15:30	22:00	6.50
+Jefferies, Chavelle	2024-04-28	US NCL	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-29	US NCL	09:00	19:15	10.25
+Jefferies, Chavelle	2024-04-30	US NCL	09:00	19:15	10.25
+Jefferies, Chavelle	2024-05-06	US Absent Unplanned	09:00	19:15	10.25
+Jefferies, Chavelle	2024-05-12	US Partial	18:23	19:15	0.87
+Jefferies, Chavelle	2024-05-20	US Absent Unplanned	09:00	19:15	10.25
+Moore, Abraham	2024-05-06	US Absent Unplanned	11:30	22:00	10.50
+Moore, Abraham	2024-05-17	US Tardy	11:30	12:25	0.92
+Moore, Abraham	2024-05-20	US Tardy	11:30	12:30	1.00
+Parker, Edra	2024-04-29	US Tardy	11:45	13:48	2.05
+Parker, Edra	2024-05-05	US Tardy	11:45	15:00	3.25
+Parker, Edra	2024-05-13	US Partial	17:03	22:00	4.95
+Parker, Edra	2024-05-13	US Tardy	11:45	12:05	0.33
+Parker, Edra	2024-05-17	US Tardy	11:45	12:50	1.08
+Parker, Edra	2024-05-20	US Tardy	11:45	11:59	0.23
+Parker, Edra	2024-05-21	US Tardy	11:45	13:42	1.95
+Puller, Paige	2024-04-28	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-04-29	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-04-30	US Partial	16:45	20:45	4.00
+Puller, Paige	2024-05-06	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-05-13	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-05-17	US Partial	15:13	20:45	5.53
+Puller, Paige	2024-05-19	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-05-20	US Absent Unplanned	10:30	20:45	10.25
+Puller, Paige	2024-05-21	US Absent Unplanned	10:30	20:45	10.25
+Thompson, Dennis	2024-04-27	US Partial	16:50	22:00	5.17
+Thompson, Dennis	2024-05-04	US Partial	15:25	22:00	6.58
+Thompson, Dennis	2024-05-06	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-05-10	US Partial	16:44	22:00	5.27
+Thompson, Dennis	2024-05-11	US Partial	19:21	22:00	2.65
+Thompson, Dennis	2024-05-13	US Absent Unplanned	13:30	22:00	8.50
+Thompson, Dennis	2024-05-20	US Tardy	13:30	13:52	0.37
+Thompson, Dennis	2024-05-21	US Partial	18:31	22:00	3.48
+Weaver, Erica	2024-05-06	US Tardy	13:30	14:30	1.00
